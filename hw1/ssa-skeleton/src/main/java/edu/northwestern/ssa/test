@@ -1,0 +1,963 @@
+title Terrence Cullen Obituary - Albany, NY | Albany Times Union
+        Powered By OBITUARIES FUNERAL HOMES SEND FLOWERS NEWS & ADVICE MEMORIALS Search SEARCH Obituaries and Guest Books BROWSE Most Recent By Location Notable Deaths SUBMIT Submit an Obituary SEARCH Search By Location SYMPATHY GIFTS Send Flowers BROWSE Funeral Flowers Charitable Donations BROWSE News & Advice Celebrity Deaths Culture and Trends Explore History Photo Galleries Advice and Support BROWSE Memorial Sites Terrence Patrick "Terry" Cullen Guest Book Be the first to share your memories or express your condolences in the Guest Book for Terrence Patrick "Terry" Cullen. View Sign Obituary Send Flowers Cullen, Terrence Patrick "Terry" ALBANY Terrence Patrick Cullen "Terry" died peacefully in his sleep on August 26, 2019, after an extended illness. He was predeceased by his parents Edward and Elizabeth (Betty Powers); and his brother Michael. He is survived by his brothers, Joseph (Sherre) of Evanston, Ill., William (Roxanne) of Penfield, N.Y., and David (Vicky) of Horseheads, N.Y.; and his sister-in-law Jean Cullen of Elmira, N.Y. He was the beloved uncle of Adam, Brian (Kate), Ethan, Matthew, Jaimi, and Lindsey. He adored his great-nephew Graham. Terry is also survived by his former partner David Shetler; lifelong friends, Joseph Egnaczak and Michael McCann, and very close friends, Peter Mesh, Peter Slattery, Ron Gleason and Bill Capone; his goddaughter Marielle Celeste Brown and her mother Lisa Brown; and many dear friends. Terry was born in Elmira, N.Y. on April 6, 1955. He graduated from Thomas A. Edison High School in Elmira Heights, N.Y. in 1973. He was on the swim team and remained an avid swimmer his whole life. Terry competed in the Gay Games in Vancouver in 1990. Terry attended Corning Community College and the State University of New York at Alfred where he obtained a degree in nursing. He later went on to earn an M.P.A. from Syracuse University. Terry worked for the State of New York for nearly 40 years, first as a nurse and then in the Budget Department, where he retired as the deputy director of medicaid finance. Terry loved to travel and enjoyed his many adventures with family and friends, especially his trips abroad, to any beach anywhere, and to Wanakena in the beautiful Adirondacks. Terry played on the volleyball league in Syracuse for many years and continued to play after moving to Albany. He was also active in a tennis league in Albany, and he continued to play tennis, swim, and even learned to play pickle ball the last year of his life. Terry volunteered as a teen mentor for many years. After retiring, Terry volunteered at Albany Medical Center and Parsons Child & Family Center because he found great joy when working with children. Terry will be remembered for his kind heart, his thoughtful nature, and his gentle spirit. Terry was beloved by many. This was made clear by the outpouring of support shown by so many friends who helped him navigate his challenging final years. What a blessing and what a gift to him! A memorial service will be planned for a future date. In lieu of flowers, please consider making a gift to support Alzheimer's research, with the hope that fewer people will have to live with this dreadful disease. Please send your donation in memory of Terry to the online at or mail your gift to the at 225 N. Michigan Ave., Fl. 17, Chicago, IL, 60601. Published in Albany Times Union on Sept. 1, 2019 Print | View Guest Book | Helpful Links Additional Resources Send Funeral Flowers How To Submit An Obituary Find Advice & Support Funeral Etiquette Grief Support Groups Return to Today's Obituary Notices for Albany Times Union Share Obituary Email Obituary Give others a chance to express condolences. Share on Facebook Share via Email Not right now. Follow this Obituary Remember on Facebook Follow via email *Please enter a valid email address. Bookmark this memorial on Facebook with the My Memorials™ application. My Memorials™ helps you honor departed family members, friends, and even favorite celebrities – all on your Facebook page. Thank you. You have now memorialized on Facebook. The My Memorials Facebook app allows you to: Connect with memorials that are important to you. Get updates on your memorials in your Facebook News Feed. Share your memories with your Facebook friends. VIEW YOUR MY MEMORIALS PAGE OR Return to Obituary No, ThanksGO CLOSE Close Donations Please consider a donation, as requested by the family. PRIVACY POLICYTERMSCONTACT USFAQ © 2019 Legacy.com. All rights reserved.
+
+
+        /Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/bin/java "-Dmaven.multiModuleProjectDirectory=/Users/yiweizhang/Desktop/comp_sci 396/project/ssa-skeleton" "-Dmaven.home=/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3" "-Dclassworlds.conf=/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/bin/m2.conf" -Didea.launcher.port=53926 "-Didea.launcher.bin.path=/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds-2.5.2.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar" com.intellij.rt.execution.application.AppMainV2 org.codehaus.classworlds.Launcher -Didea.version=2018.3.4 package exec:java -Dexec.mainClass=edu.northwestern.ssa.App
+        [INFO] Scanning for projects...
+        [INFO]
+        [INFO] ------------------------------------------------------------------------
+        [INFO] Building news-import 1.0-SNAPSHOT
+        [INFO] ------------------------------------------------------------------------
+        [INFO]
+        [INFO] --- maven-resources-plugin:3.0.2:resources (default-resources) @ news-import ---
+        [INFO] Using 'UTF-8' encoding to copy filtered resources.
+        [INFO] Copying 3 resources
+        [INFO]
+        [INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ news-import ---
+        [INFO] Changes detected - recompiling the module!
+        [INFO] Compiling 3 source files to /Users/yiweizhang/Desktop/comp_sci 396/project/ssa-skeleton/target/classes
+        [INFO]
+        [INFO] --- maven-resources-plugin:3.0.2:testResources (default-testResources) @ news-import ---
+        [INFO] Using 'UTF-8' encoding to copy filtered resources.
+        [INFO] skip non existing resourceDirectory /Users/yiweizhang/Desktop/comp_sci 396/project/ssa-skeleton/src/test/resources
+        [INFO]
+        [INFO] --- maven-compiler-plugin:3.8.0:testCompile (default-testCompile) @ news-import ---
+        [INFO] No sources to compile
+        [INFO]
+        [INFO] --- maven-surefire-plugin:2.22.1:test (default-test) @ news-import ---
+        [INFO] No tests to run.
+        [INFO]
+        [INFO] --- maven-jar-plugin:3.0.2:jar (default-jar) @ news-import ---
+        [INFO] Building jar: /Users/yiweizhang/Desktop/comp_sci 396/project/ssa-skeleton/target/news-import-1.0-SNAPSHOT.jar
+        [INFO]
+        [INFO] --- exec-maven-plugin:1.6.0:java (default-cli) @ news-import ---
+        build success
+        Finish Part 1
+        count 0
+        count 100
+        count 200
+        count 300
+        count 400
+        count 500
+        count 600
+        count 700
+        count 800
+        count 900
+        count 1000
+        count 1100
+        count 1200
+        count 1300
+        count 1400
+        count 1500
+        count 1600
+        count 1700
+        count 1800
+        count 1900
+        count 2000
+        count 2100
+        count 2200
+        count 2300
+        count 2400
+        count 2500
+        count 2600
+        count 2700
+        count 2800
+        count 2900
+        count 3000
+        count 3100
+        count 3200
+        count 3300
+        count 3400
+        count 3500
+        count 3600
+        count 3700
+        count 3800
+        count 3900
+        count 4000
+        count 4100
+        count 4200
+        count 4300
+        count 4400
+        count 4500
+        count 4600
+        count 4700
+        count 4800
+        count 4900
+        count 5000
+        count 5100
+        count 5200
+        count 5300
+        count 5400
+        count 5500
+        count 5600
+        count 5700
+        count 5800
+        count 5900
+        count 6000
+        count 6100
+        count 6200
+        count 6300
+        count 6400
+        count 6500
+        count 6600
+        count 6700
+        count 6800
+        count 6900
+        count 7000
+        [WARNING]
+        org.jsoup.UncheckedIOException: java.io.IOException: Input is binary and unsupported
+        at org.jsoup.parser.CharacterReader.<init>(CharacterReader.java:38)
+        at org.jsoup.parser.CharacterReader.<init>(CharacterReader.java:43)
+        at org.jsoup.parser.TreeBuilder.initialiseParse(TreeBuilder.java:38)
+        at org.jsoup.parser.HtmlTreeBuilder.initialiseParse(HtmlTreeBuilder.java:65)
+        at org.jsoup.parser.TreeBuilder.parse(TreeBuilder.java:46)
+        at org.jsoup.parser.Parser.parse(Parser.java:107)
+        at org.jsoup.Jsoup.parse(Jsoup.java:58)
+        at edu.northwestern.ssa.App.lambda$main$0(App.java:122)
+        at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+        at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+        at java.base/java.lang.Thread.run(Thread.java:834)
+        Caused by: java.io.IOException: Input is binary and unsupported
+        at org.jsoup.UncheckedIOException.<init>(UncheckedIOException.java:11)
+        ... 11 more
+        count 7100
+        [WARNING]
+        org.jsoup.UncheckedIOException: java.io.IOException: Input is binary and unsupported
+        at org.jsoup.parser.CharacterReader.<init>(CharacterReader.java:38)
+        at org.jsoup.parser.CharacterReader.<init>(CharacterReader.java:43)
+        at org.jsoup.parser.TreeBuilder.initialiseParse(TreeBuilder.java:38)
+        at org.jsoup.parser.HtmlTreeBuilder.initialiseParse(HtmlTreeBuilder.java:65)
+        at org.jsoup.parser.TreeBuilder.parse(TreeBuilder.java:46)
+        at org.jsoup.parser.Parser.parse(Parser.java:107)
+        at org.jsoup.Jsoup.parse(Jsoup.java:58)
+        at edu.northwestern.ssa.App.lambda$main$0(App.java:122)
+        at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+        at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+        at java.base/java.lang.Thread.run(Thread.java:834)
+        Caused by: java.io.IOException: Input is binary and unsupported
+        at org.jsoup.UncheckedIOException.<init>(UncheckedIOException.java:11)
+        ... 11 more
+        count 7200
+        count 7300
+        count 7400
+        count 7500
+        count 7600
+        count 7700
+        count 7800
+        count 7900
+        count 8000
+        count 8100
+        count 8200
+        count 8300
+        count 8400
+        count 8500
+        count 8600
+        count 8700
+        count 8800
+        count 8900
+        count 9000
+        count 9100
+        count 9200
+        count 9300
+        count 9400
+        count 9500
+        count 9600
+        count 9700
+        count 9800
+        count 9900
+        count 10000
+        count 10100
+        count 10200
+        count 10300
+        count 10400
+        count 10500
+        count 10600
+        count 10700
+        count 10800
+        count 10900
+        count 11000
+        count 11100
+        count 11200
+        count 11300
+        count 11400
+        count 11500
+        count 11600
+        count 11700
+        count 11800
+        count 11900
+        count 12000
+        count 12100
+        count 12200
+        count 12300
+        count 12400
+        count 12500
+        count 12600
+        count 12700
+        count 12800
+        count 12900
+        count 13000
+        count 13100
+        count 13200
+        count 13300
+        count 13400
+        count 13500
+        count 13600
+        count 13700
+        count 13800
+        count 13900
+        count 14000
+        count 14100
+        count 14200
+        count 14300
+        count 14400
+        count 14500
+        count 14600
+        count 14700
+        count 14800
+        count 14900
+        count 15000
+        count 15100
+        count 15200
+        count 15300
+        count 15400
+        count 15500
+        count 15600
+        count 15700
+        count 15800
+        count 15900
+        count 16000
+        count 16100
+        count 16200
+        count 16300
+        count 16400
+        count 16500
+        count 16600
+        count 16700
+        count 16800
+        count 16900
+        count 17000
+        count 17100
+        count 17200
+        count 17300
+        count 17400
+        count 17500
+        count 17600
+        count 17700
+        count 17800
+        count 17900
+        count 18000
+        count 18100
+        count 18200
+        count 18300
+        count 18400
+        count 18500
+        count 18600
+        count 18700
+        count 18800
+        count 18900
+        count 19000
+        count 19100
+        count 19200
+        count 19300
+        count 19400
+        count 19500
+        count 19600
+        count 19700
+        count 19800
+        count 19900
+        count 20000
+        count 20100
+        count 20200
+        count 20300
+        count 20400
+        count 20500
+        count 20600
+        count 20700
+        count 20800
+        count 20900
+        count 21000
+        count 21100
+        count 21200
+        count 21300
+        count 21400
+        count 21500
+        count 21600
+        count 21700
+        count 21800
+        count 21900
+        count 22000
+        count 22100
+        count 22200
+        count 22300
+        count 22400
+        count 22500
+        count 22600
+        count 22700
+        count 22800
+        count 22900
+        count 23000
+        count 23100
+        count 23200
+        count 23300
+        count 23400
+        count 23500
+        count 23600
+        count 23700
+        count 23800
+        count 23900
+        count 24000
+        count 24100
+        count 24200
+        count 24300
+        count 24400
+        count 24500
+        count 24600
+        count 24700
+        count 24800
+        count 24900
+        count 25000
+        count 25100
+        count 25200
+        count 25300
+        count 25400
+        count 25500
+        count 25600
+        count 25700
+        count 25800
+        count 25900
+        count 26000
+        count 26100
+        count 26200
+        count 26300
+        count 26400
+        count 26500
+        count 26600
+        count 26700
+        count 26800
+        count 26900
+        count 27000
+        count 27100
+        count 27200
+        count 27300
+        count 27400
+        count 27500
+        count 27600
+        count 27700
+        count 27800
+        count 27900
+        count 28000
+        count 28100
+        count 28200
+        count 28300
+        count 28400
+        count 28500
+        count 28600
+        count 28700
+        count 28800
+        count 28900
+        count 29000
+        count 29100
+        count 29200
+        count 29300
+        count 29400
+        count 29500
+        count 29600
+        count 29700
+        count 29800
+        count 29900
+        count 30000
+        count 30100
+        count 30200
+        count 30300
+        count 30400
+        count 30500
+        count 30600
+        count 30700
+        count 30800
+        count 30900
+        count 31000
+        count 31100
+        count 31200
+        count 31300
+        count 31400
+        count 31500
+        count 31600
+        count 31700
+        count 31800
+        count 31900
+        count 32000
+        count 32100
+        count 32200
+        count 32300
+        count 32400
+        count 32500
+        count 32600
+        count 32700
+        count 32800
+        count 32900
+        count 33000
+        count 33100
+        count 33200
+        count 33300
+        count 33400
+        count 33500
+        count 33600
+        count 33700
+        count 33800
+        count 33900
+        count 34000
+        count 34100
+        count 34200
+        count 34300
+        count 34400
+        count 34500
+        count 34600
+        count 34700
+        count 34800
+        count 34900
+        count 35000
+        count 35100
+        count 35200
+        count 35300
+        count 35400
+        count 35500
+        count 35600
+        count 35700
+        count 35800
+        count 35900
+        count 36000
+        count 36100
+        count 36200
+        count 36300
+        count 36400
+        find Evanston
+        title Encyclical of Ecumenical Patriarch Bartholomew for the Feast of Indiction and the First Day of the Ecclesiastical Year and the Day of Environmental Protection
+        text Encyclical of Ecumenical Patriarch Bartholomew for the Feast of Indiction and the First Day of the Ecclesiastical Year and the Day of Environmental Protection THE TIME FOR ORTHODOX UNITY IS NOW! Navigate Home OCL About OCL Leadership OCL News OCL Publications Focused Study and Research Topics OCL Archives at DePaul University Orthodox News & Links Orthodox News Stories Headlines & News Archives Governance & Unity Governance Top Stories Governance & Unity Essays Grassroots Unity in Action OCL Forums Orthodox Christian Laity News Web Links Audio & Video Audio Index Video Index DONATE Contact You are at:Home»Governance & Unity News»Encyclical of Ecumenical Patriarch Bartholomew for the Feast of Indiction and the First Day of the Ecclesiastical Year and the Day of Environmental Protection Encyclical of Ecumenical Patriarch Bartholomew for the Feast of Indiction and the First Day of the Ecclesiastical Year and the Day of Environmental Protection 0 By Webmaster on August 31, 2019 Governance & Unity News, Governance Top Stories Source: Greek Orthodox Archdiocese of America September 1, 2019 Prot. No. 582 + B A R T H O L O M E W By God’s Mercy Archbishop of Constantinople-New Rome and Ecumenical Patriarch To All the Plenitude of the Church Grace, Peace and Mercy from the Maker of All Creation Our Lord, God and Savior Jesus Christ Dearest brother Hierarchs and beloved children in the Lord, With the goodness and grace of the all-bountiful God, today marks the 30th anniversary since the Holy Great Church of Christ established the feast of Indiction and first day of the ecclesiastical year as “the day of environmental protection.” We did not only address our Orthodox faithful, nor again just Christian believer or even representatives of other religions, but also political leaders, environmentalists and other scientists, as well as intellectuals and all people of good will, seeking their contribution. The ecological activities of the Ecumenical Patriarchate served as the inspiration for theology to advance prominently the truth of Christian anthropology and cosmology, the Eucharistic worldview and treatment of creation, along with the spirit of Orthodox asceticism as the basis for understanding the reason for and response to the ecological crisis. The bibliography related to theological ecology or ecological theology is extensive and on the whole constitutes an admirable Orthodox witness before the major challenges of contemporary humanity and earthly life. Concern for the ecological crisis and for the global dimensions and consequences of sin – of this alienating internal “reversal of values” in humankind – brought to the surface the connection between ecological and social issues as well as for the need to address them jointly. Mobilizing forces for the protection of the integrity of creation and for social justice are interconnected and inseparable actions. The interest of the Ecumenical Patriarchate for the protection of creation did not arise as a reaction to or as a result of the contemporary ecological crisis. The latter was simply the motivation and occasion for the Church to express, develop, proclaim and promote its environmentally-friendly principles. The foundation of the Church’s undiminished concern for the natural environment lies in its ecclesiological identity and theology. Respect and care for creation are a dimension of our faith, the content of our life in the Church and as the Church. The very life of the Church is “an experienced ecology,” an applied respect and care for creation, and the source of its environmental activities. In essence, the interest of the Church for the protection of the environment is the extension of the Holy Eucharist in all dimensions of its relationship to the world. The liturgical life of the Church, the ascetic ethos, pastoral service and experience of the cross and resurrection by the faithful, the unquenchable desire for eternity: all of these comprise a communion of persons for which the natural reality cannot be reduced to an object or useful matter to meet the needs of an individual or humanity; by contrast, this reality is considered as an act, deed the handiwork of a personal God, who calls us to respect and protect it, thereby rendering us His “coworkers,” “stewards,” “guardians,” and “priests” of creation in order to cultivate a Eucharistic relationship with it. Care for the natural environment is not an added activity, but an essential expression of church life. It does not have a secular, but rather a purely ecclesiastical character. It is a “liturgical ministry.” All of the initiatives and activities of the Church are “applied ecclesiology.” In this sense, theological ecology does not merely refer to the development of an ecological awareness or the response to ecological problems on the basis of the principles of Christian anthropology and cosmology. On the contrary, it involves the renewal of the whole creation in Christ, just as this is realized and experienced in the Holy Eucharist, which is an image and foretaste of the eschatological fullness of the Divine Economy in the doxological wholeness and luminous splendor of the heavenly kingdom. Most honorable brothers and most precious children in the Lord, The ecological crisis reveals that our world comprises an integral whole, that our problems are global and shared. In order to meet these challenges, we require a multilayered mobilization, a common accord, direction and action. It is inconceivable for humankind to recognize the severity of the problem and yet continue to behave in oblivion. While in recent decades the dominant model of economic development in the context of globalization – highlighting the fetishism of financial markers and magnification of financial profit – has exacerbated ecological and economic problems, the notion still prevails widely that “there is no other alternative” and that not conforming to the rigid validity logic of the world’s economy will lead to unbridled social and financial situations. Thus, any alternative forms of development, along with the power of social solidarity and justice, are overlooked and undermined. For our part, however, we are obliged to assume greater measures for the application of the ecological and social consequences of our faith. It is extremely vital that our archdioceses and metropolises, as well as many of our parishes and sacred monasteries, have fostered initiatives and activities for the protection of the environment, but also various programs of ecological education. We should pay special attention to the Christian formation of our youth, so that it may function as an area of cultivation and development of an ecological ethos and solidarity. Childhood and adolescence are particularly susceptible life phases for ecological and social responsiveness. Aware of the urgency of environmental education, the Ecumenical Patriarchate devoted the Third in its series of international Halki Summits to the subject of “Theological Education and Ecological Awareness” (Istanbul, May 31st to June 4th, 2019) with a view to incorporating ecology and environmental awareness into programs and curricula of theological schools and seminaries. The solution to the great challenges of our world is unattainable without spiritual orientation. In conclusion, then, we wish all of you a favorable and blessed ecclesiastical year, filled with works pleasing to God. We invite the radiant children of the Mother Church throughout the world to pray for the integrity of creation, to be sustainable and charitable in every aspect of their lives, to strive for the protection of the natural environment, as well as the promotion of peace and justice. And we proclaim once more the truth that there can be no genuine progress, when the “very good” creation and the human person made in the image and likeness of God suffer. Finally, through the intercession of the first-among-the-saints Theotokos Pammakaristos, we invoke upon you the life-giving grace and boundless mercy of the Creator and Provider of all. September 1, 2019 +Bartholomew of Constantinople Your fervent supplicant before God Share. Twitter Facebook Google+ Pinterest LinkedIn Tumblr Email Previous ArticleMusings of the Executive Director: Reflecting on the Challenges of the New Ecclesiastical Year 2019 Next Article Interesting Developments at the Meetings of the Synods of Constantinople and Moscow Leave A Reply Cancel Reply This site uses Akismet to reduce spam. Learn how your comment data is processed. Share this page DISCLAIMER All articles represent the views of the authors and not necessarily the official views of Orthodox Christian Laity (OCL). They are posted to encourage thoughtful discussion on topics and concerns relevant to Orthodox Christians living in a pluralistic society. OCL encourages your comments. Stay Informed! Subscribe to our Newsletter WE NEED YOUR HELP! "If this web site is meaningful to you, support OCL with your Donation via Pay Pal!" DONATE NOW Upcoming Events International Conference on the Theological Heritage of Fr. Georges Florovsky September 1 - September 3 27th International Ecumenical Conference on Orthodox Spirituality September 4 @ 8:00 am - September 6 @ 5:00 pm EDT Orthodoxy in America Lecture Series at Fordham University September 24 @ 6:00 pm - 9:00 pm EDT Orthodox Christian Laity 32nd Annual Meeting November 2 @ 9:00 am - 12:00 pm EDT View All Events Recent Comments Interesting Developments at the Meetings of the Synods of Constantinople and Moscow (0) Ted D - Mush, mud and murky waters, the result of disobedience to the Mother Church, Lord have Mercy - Russian Ecclesiastical imperialism at its best. – Aug 31, 7:37 PM OCL Leadership Enjoys Inspirational and Productive Meeting with His Eminence, Archbishop Elpidophoros (27) Nikolai - Ted, you are just SO wrong! To say, "There is NO American Church," is plain DELUSIONAL! Foreign bishops taking the money of American Orthodox is... – Aug 31, 7:15 AM Mother Elizabeth (Klipa - Bacha) - You cannot have a "Mother Church in Constantinople" when there is no longer a "Constantinople"! Eto fact! Constantinople is non-existent as a political entity today... – Aug 29, 10:00 PM Mother Elizabeth (Klipa - Bacha) - Yes! We who were present and ministering in the Orthodoxy of America in this decisive era of the 1970's with expectations of "Pan-Orthodox Unity" have... – Aug 29, 7:19 PM Pew Research Center: Orthodox Christianity in the 21st Century (3) Ted D - Christianity is not a product or a popularity contest - Numbers are good to look at, but God does not work with numbers. If He... – Aug 31, 12:41 AM CONTRA “FATHER-ISM” - ON SPIRITUAL AND THEOLOGICAL ABUSE (9) Ted D - In a previous comment I said that it is "very peculiar" to see people comment; now I must say, it is very sad to see... – Aug 29, 5:34 PM Constantinos - Well, Ted D, you said the soul goes through great torment after death. Perhaps, you can explain to me what Christ meant when He told... – Aug 29, 12:54 AM Jk - Ted, you quote Fr Metallinos as if he is an absolute authority. I have no idea what "Hellenism is the Capitol of Christianity" means. The... – Aug 28, 10:34 PM Ted D - The "aerial toll houses" - This is a topic tossed around as a major teaching of shorts. It is not even close to that and... – Aug 27, 6:16 PM OCL Archives Online Project for Orthodox Renewal Support OCL through Amazon St. Symeon the New Theologian and St. Photini are the Patron Saints of OCL Orthodox Christian Laity PO Box 6954 West Palm Beach, FL · 33405 561-585-0245 Sponsored by Ann Souvall in memory of husband George DISCLAIMER: All articles represent the views of the authors and not necessarily the official views of Orthodox Christian Laity (OCL). They are posted to encourage thoughtful discussion on topics and concerns relevant to Orthodox Christians living in a pluralistic society. OCL encourages your comments. ©2018 Orthodox Christian Laity (OCL) · Login
+        find Evanston
+        title Musings of the Executive Director: Reflecting on the Challenges of the New Ecclesiastical Year 2019
+        text Musings of the Executive Director: Reflecting on the Challenges of the New Ecclesiastical Year 2019 THE TIME FOR ORTHODOX UNITY IS NOW! Navigate Home OCL About OCL Leadership OCL News OCL Publications Focused Study and Research Topics OCL Archives at DePaul University Orthodox News & Links Orthodox News Stories Headlines & News Archives Governance & Unity Governance Top Stories Governance & Unity Essays Grassroots Unity in Action OCL Forums Orthodox Christian Laity News Web Links Audio & Video Audio Index Video Index DONATE Contact You are at:Home»Governance & Unity News»Governance & Unity Essays»Musings of the Executive Director: Reflecting on the Challenges of the New Ecclesiastical Year 2019 Musings of the Executive Director: Reflecting on the Challenges of the New Ecclesiastical Year 2019 0 By Webmaster on August 31, 2019 Governance & Unity Essays, Governance & Unity News George Matsoukas, Executive Director of Orthodox Christian Laity Source: Orthodox Christian Laity A Crisis of Faith, Not of Theology, Very Rev George Florovsky, 40th Anniversary of his Falling Asleep in the Lord Excerpt from Orthodox Evangelist, Fall 2019, Vol. 53. No. 3: Brotherhood of St. Symeon the New Theologian, Miramar, FL The “Historic Church” is always an “imperfect Church,” despite her inherent sanctity. Every student of Church History knows it but well. The “Golden Age” of the Church – the age of Chrysostom and the Cappadocians – was an age of schisms, rifts, treason and suspicions. Did not St. Gregory of Nazianzus suggest that apparently Christ was asleep on the boat tossed by storms? Did not St. Basil describe the story of his time as that of an eclipse, when it was almost impossible in the darkness – to tell foes from friends? Was not St. John Chrysostom betrayed by his fellow-bishops and was to die as a “bloodless martyr”? And yet, it was, no doubt, a golden age! On the other hand, Christian preaching had always been an offense, already in the times of St. Paul. Yet, St. Paul did not think that it was permissible to “adjust” his preaching to the “capacity” of those to whom it had to be addressed. He did not hesitate “to offend” them. Why should we, in our own time, be shy at this point, and be so concerned with the “changing times”? There is no crisis of traditional theology, but there is a profound crisis of belief, of faith. Those, who are unable and unwilling to believe with the Church, still want to be counted as Christians. Then they face an alternative: disregard all that they do not find valid (what the majority of the actual membership in our Church is doing, without “theology”, dogmas, etc.) or call for a formal retraction of what they perceive as “traditional”, “obsolete”, “ancient”, “Hellenic.” They have lost faith, and for that reason, they feel that they need to change theology. Indeed, bad or negligent teaching in our Church has been responsible for that defection or ignorance. I mean, the teaching might have been deficient, but true theology is, nevertheless, true and valid. Reinterpretation may be needed, but not an adjustment. Let those who are still feeling with the Church (sentire cum ecclesia), thank God for His help and blessing, because faith is somehow always a gift of God, in Spiritu Sancto. What we are missing now is a theology well-presented. Unfortunately, one begins very often not with “the Faith as once delivered unto the Saints,” but with the alleged “Modern Mind,” which is, in fact, still in flux. A Protestant friend of mine rightly suggested that the “Modern Man” has not yet made up his mind. Rather, he is simply a person with modern moods and whims. George Matsoukas, OCL Executive Director Share. Twitter Facebook Google+ Pinterest LinkedIn Tumblr Email Previous ArticleGREEK CHURCH DOESN’T WANT TO BE RESPONSIBLE FOR A SCHISM IN ORTHODOXY—UKRAINIAN CHURCH SPEAKER Next Article Encyclical of Ecumenical Patriarch Bartholomew for the Feast of Indiction and the First Day of the Ecclesiastical Year and the Day of Environmental Protection Leave A Reply Cancel Reply This site uses Akismet to reduce spam. Learn how your comment data is processed. Share this page DISCLAIMER All articles represent the views of the authors and not necessarily the official views of Orthodox Christian Laity (OCL). They are posted to encourage thoughtful discussion on topics and concerns relevant to Orthodox Christians living in a pluralistic society. OCL encourages your comments. Stay Informed! Subscribe to our Newsletter WE NEED YOUR HELP! "If this web site is meaningful to you, support OCL with your Donation via Pay Pal!" DONATE NOW Upcoming Events International Conference on the Theological Heritage of Fr. Georges Florovsky September 1 - September 3 27th International Ecumenical Conference on Orthodox Spirituality September 4 @ 8:00 am - September 6 @ 5:00 pm EDT Orthodoxy in America Lecture Series at Fordham University September 24 @ 6:00 pm - 9:00 pm EDT Orthodox Christian Laity 32nd Annual Meeting November 2 @ 9:00 am - 12:00 pm EDT View All Events Recent Comments Interesting Developments at the Meetings of the Synods of Constantinople and Moscow (0) Ted D - Mush, mud and murky waters, the result of disobedience to the Mother Church, Lord have Mercy - Russian Ecclesiastical imperialism at its best. – Aug 31, 7:37 PM OCL Leadership Enjoys Inspirational and Productive Meeting with His Eminence, Archbishop Elpidophoros (27) Nikolai - Ted, you are just SO wrong! To say, "There is NO American Church," is plain DELUSIONAL! Foreign bishops taking the money of American Orthodox is... – Aug 31, 7:15 AM Mother Elizabeth (Klipa - Bacha) - You cannot have a "Mother Church in Constantinople" when there is no longer a "Constantinople"! Eto fact! Constantinople is non-existent as a political entity today... – Aug 29, 10:00 PM Mother Elizabeth (Klipa - Bacha) - Yes! We who were present and ministering in the Orthodoxy of America in this decisive era of the 1970's with expectations of "Pan-Orthodox Unity" have... – Aug 29, 7:19 PM Pew Research Center: Orthodox Christianity in the 21st Century (3) Ted D - Christianity is not a product or a popularity contest - Numbers are good to look at, but God does not work with numbers. If He... – Aug 31, 12:41 AM CONTRA “FATHER-ISM” - ON SPIRITUAL AND THEOLOGICAL ABUSE (9) Ted D - In a previous comment I said that it is "very peculiar" to see people comment; now I must say, it is very sad to see... – Aug 29, 5:34 PM Constantinos - Well, Ted D, you said the soul goes through great torment after death. Perhaps, you can explain to me what Christ meant when He told... – Aug 29, 12:54 AM Jk - Ted, you quote Fr Metallinos as if he is an absolute authority. I have no idea what "Hellenism is the Capitol of Christianity" means. The... – Aug 28, 10:34 PM Ted D - The "aerial toll houses" - This is a topic tossed around as a major teaching of shorts. It is not even close to that and... – Aug 27, 6:16 PM OCL Archives Online Project for Orthodox Renewal Support OCL through Amazon St. Symeon the New Theologian and St. Photini are the Patron Saints of OCL Orthodox Christian Laity PO Box 6954 West Palm Beach, FL · 33405 561-585-0245 Sponsored by Ann Souvall in memory of husband George DISCLAIMER: All articles represent the views of the authors and not necessarily the official views of Orthodox Christian Laity (OCL). They are posted to encourage thoughtful discussion on topics and concerns relevant to Orthodox Christians living in a pluralistic society. OCL encourages your comments. ©2018 Orthodox Christian Laity (OCL) · Login
+        find Evanston
+        title GREEK CHURCH DOESN’T WANT TO BE RESPONSIBLE FOR A SCHISM IN ORTHODOXY—UKRAINIAN CHURCH SPEAKER
+        text GREEK CHURCH DOESN’T WANT TO BE RESPONSIBLE FOR A SCHISM IN ORTHODOXY—UKRAINIAN CHURCH SPEAKER THE TIME FOR ORTHODOX UNITY IS NOW! Navigate Home OCL About OCL Leadership OCL News OCL Publications Focused Study and Research Topics OCL Archives at DePaul University Orthodox News & Links Orthodox News Stories Headlines & News Archives Governance & Unity Governance Top Stories Governance & Unity Essays Grassroots Unity in Action OCL Forums Orthodox Christian Laity News Web Links Audio & Video Audio Index Video Index DONATE Contact You are at:Home»Governance & Unity News»Governance & Unity Essays»GREEK CHURCH DOESN’T WANT TO BE RESPONSIBLE FOR A SCHISM IN ORTHODOXY—UKRAINIAN CHURCH SPEAKER GREEK CHURCH DOESN’T WANT TO BE RESPONSIBLE FOR A SCHISM IN ORTHODOXY—UKRAINIAN CHURCH SPEAKER 0 By Webmaster on August 30, 2019 Governance & Unity Essays, Governance & Unity News Source: Orthodox Christianity Holy Synod of the Orthodox Church of Greece KIEV – The Greek Orthodox Church does not want to enter into a direct confrontation with the Patriarchate of Constantinople, but clearly understands that for any Local Church to recognize the schismatic “Orthodox Church of Ukraine” (OCU) would be to divide the Orthodox world into two parts, Archpriest Nikolai Danilevich, Deputy Head of the canonical Ukrainian Church’s Department for External Church Relations, commented in an interview with First Cossack, reports the Union of Orthodox Journalists. “The text of the Synod’s decision became the basis for some news agencies to say that the Greek Church recognized the means of autocephaly OCU as canonical, which is twisting the text itself,” said the Ukrainian Church speaker. “The fact is that the Greek Orthodox Church recognized the right of Constantinople to give autocephaly. Similar phrases were also in the letter of Archbishop Anastasius, primate of the Albanian Church, and in the letter of the Synod of the Orthodox Church of Cyprus. But they do not concern the recognition of the Church itself,” Fr. Nikolai explained. The Greek Church understands what is schism and what isn’t, Fr. Nikolai said. However, they are under pressure and want to avoid a direct confrontation with Constantinople. “But they cannot change the truth and say that what is obviously wrong is right; they cannot call black white.” Vladimir Legoida, the head of the Moscow Patriarchate’s Synodal Department for Relations with Society and the Media, also spoke of the pressure on the Greek Church: “How the Greek Church discusses the question of the schismatic OCU demonstrates the unprecedented severity of the problem and also of the pressure that is being exerted.” The Greek Church offered Constantinople “a spoonful of honey” with its statement about the Patriarchate’s right to grant autocephaly, though at the same time, the statement is balanced and generally well received, Fr. Nikolai noted. “We understand the whole situation the Greek Church has found itself in, and we see that it does not want to be responsible for the splitting of the Orthodox world. Because any other Church that joins this decision of Constantinople, will be the first, in fact, in the division of the Orthodox world into two parts: Those who will recognize the OCU, and those who will not,” the speaker said. He also noted that there are no analogous situations in Church history in which a minority schismatic group was granted autocephaly and raised above the group that all Churches recognized as canonical. “The Russian Orthodox Church has always testified that the most important factor in this discussion should be concern for the Orthodox Ukrainians, the children of the canonical Church, who as a result of the Phanar’s intervention became a majority persecuted by the radicals,” Legoida also wrote. “Any support for the OCU by the Local Churches can only lead to further division in Ukrainian society, the deepening of the schism, and the escalation of hatred,” the Russian Church representative said. Share. Twitter Facebook Google+ Pinterest LinkedIn Tumblr Email Previous ArticleOCL 5 Year Results Review Ending 2019 Next Article Musings of the Executive Director: Reflecting on the Challenges of the New Ecclesiastical Year 2019 Leave A Reply Cancel Reply This site uses Akismet to reduce spam. Learn how your comment data is processed. Share this page DISCLAIMER All articles represent the views of the authors and not necessarily the official views of Orthodox Christian Laity (OCL). They are posted to encourage thoughtful discussion on topics and concerns relevant to Orthodox Christians living in a pluralistic society. OCL encourages your comments. Stay Informed! Subscribe to our Newsletter WE NEED YOUR HELP! "If this web site is meaningful to you, support OCL with your Donation via Pay Pal!" DONATE NOW Upcoming Events International Conference on the Theological Heritage of Fr. Georges Florovsky September 1 - September 3 27th International Ecumenical Conference on Orthodox Spirituality September 4 @ 8:00 am - September 6 @ 5:00 pm EDT Orthodoxy in America Lecture Series at Fordham University September 24 @ 6:00 pm - 9:00 pm EDT Orthodox Christian Laity 32nd Annual Meeting November 2 @ 9:00 am - 12:00 pm EDT View All Events Recent Comments Interesting Developments at the Meetings of the Synods of Constantinople and Moscow (0) Ted D - Mush, mud and murky waters, the result of disobedience to the Mother Church, Lord have Mercy - Russian Ecclesiastical imperialism at its best. – Aug 31, 7:37 PM OCL Leadership Enjoys Inspirational and Productive Meeting with His Eminence, Archbishop Elpidophoros (27) Nikolai - Ted, you are just SO wrong! To say, "There is NO American Church," is plain DELUSIONAL! Foreign bishops taking the money of American Orthodox is... – Aug 31, 7:15 AM Mother Elizabeth (Klipa - Bacha) - You cannot have a "Mother Church in Constantinople" when there is no longer a "Constantinople"! Eto fact! Constantinople is non-existent as a political entity today... – Aug 29, 10:00 PM Mother Elizabeth (Klipa - Bacha) - Yes! We who were present and ministering in the Orthodoxy of America in this decisive era of the 1970's with expectations of "Pan-Orthodox Unity" have... – Aug 29, 7:19 PM Pew Research Center: Orthodox Christianity in the 21st Century (3) Ted D - Christianity is not a product or a popularity contest - Numbers are good to look at, but God does not work with numbers. If He... – Aug 31, 12:41 AM CONTRA “FATHER-ISM” - ON SPIRITUAL AND THEOLOGICAL ABUSE (9) Ted D - In a previous comment I said that it is "very peculiar" to see people comment; now I must say, it is very sad to see... – Aug 29, 5:34 PM Constantinos - Well, Ted D, you said the soul goes through great torment after death. Perhaps, you can explain to me what Christ meant when He told... – Aug 29, 12:54 AM Jk - Ted, you quote Fr Metallinos as if he is an absolute authority. I have no idea what "Hellenism is the Capitol of Christianity" means. The... – Aug 28, 10:34 PM Ted D - The "aerial toll houses" - This is a topic tossed around as a major teaching of shorts. It is not even close to that and... – Aug 27, 6:16 PM OCL Archives Online Project for Orthodox Renewal Support OCL through Amazon St. Symeon the New Theologian and St. Photini are the Patron Saints of OCL Orthodox Christian Laity PO Box 6954 West Palm Beach, FL · 33405 561-585-0245 Sponsored by Ann Souvall in memory of husband George DISCLAIMER: All articles represent the views of the authors and not necessarily the official views of Orthodox Christian Laity (OCL). They are posted to encourage thoughtful discussion on topics and concerns relevant to Orthodox Christians living in a pluralistic society. OCL encourages your comments. ©2018 Orthodox Christian Laity (OCL) · Login
+        find Evanston
+        title Interesting Developments at the Meetings of the Synods of Constantinople and Moscow
+        text Interesting Developments at the Meetings of the Synods of Constantinople and Moscow THE TIME FOR ORTHODOX UNITY IS NOW! Navigate Home OCL About OCL Leadership OCL News OCL Publications Focused Study and Research Topics OCL Archives at DePaul University Orthodox News & Links Orthodox News Stories Headlines & News Archives Governance & Unity Governance Top Stories Governance & Unity Essays Grassroots Unity in Action OCL Forums Orthodox Christian Laity News Web Links Audio & Video Audio Index Video Index DONATE Contact You are at:Home»Governance & Unity News»Interesting Developments at the Meetings of the Synods of Constantinople and Moscow Interesting Developments at the Meetings of the Synods of Constantinople and Moscow 1 By Webmaster on August 31, 2019 Governance & Unity News, Governance Top Stories Source: Peter Anderson, Seattle USA Holy Synod of the Ecumenical Patriarchate The Holy Synod of the Ecumenical Patriarchate held a meeting at the Phanar on August 29 and 30. The press release concerning the results of the meeting was posted today (Saturday). https://www.facebook.com/ecumenicalpatriarchate/?__tn__=kCH-R&eid=ARCT1A3O6dAskvFf0ErJbFzhmpS-zkbxs6v_KkfWrsdlDqjDVGWmFku5vJ8J-roM5_ttDWTqYUX0B0vx&hc_ref=ARTsNzwPjolkEHRPNLm-QSwZq98tdu4TmBYM4oj2fjRpMI6kD44dNy3HoJI9gFhBMMM&fref=nf An English-language summary can be read at https://www.romfea.news/the-decisions-of-the-holy-synod-of-ecumenical-patriarchate/. The latter states: During the meeting, it was decided to discharge Archbishop Ioannis [John] of Harioupolis from the Apostolic and Patriarchal Ecumenical Throne, personally and only to him, thereby relieving him of the responsibility of the Patriarchal Exarchate for Orthodox parishes of the Russian Tradition in Western Europe. As a consequence, Metropolitan Emmanuel of France is now responsible for parishes of the former Exarchate. The same is true of the rest of the former Exarchate parishes in other Western European countries, which fall under the responsibility of the respective Hierarchs of the Ecumenical Patriarchate in these areas. Furthermore, the Ecumenical Patriarchate has decided to appoint Archpriest Alexis Struve, University Professor, to replace the Head of St. Alexander Nevsky Holy Church in Paris. This discharge occurs approximately a week before the scheduled extraordinary assembly of the communities within the Archdiocese of the Russian Orthodox Church in Western Europe. The assembly had been called by Archbishop John and is to be held in Paris on September 7. It is reported that Archbishop John, who plans to chair the meeting, is strongly in favor of accepting the proposal of the Moscow Patriarchate in which certain concessions are promised if the Archdiocese comes under Moscow’s jurisdiction. The Office of the Archbishop (John) released today the following communique: http://www.exarchat.eu/spip.php?article2393 (official English translation). This communique may have been drafted before the discharge of the Archbishop had been communicated. The communique contains links to all of the documents that the Archbishop believes should be communicated to the assembly delegates. The communique also describes a meeting between the Archbishop and Ecumenical Patriarch Bartholomew at Chambesy on August 17. My reading of the Archbishop’s communique is that the Ecumenical Patriarch showed little flexibility in retreating from the prior decision to dissolve the exarchate. On the other hand, a different version of the meeting has been posted at https://credo.press/226327/. The latter article contends: “Patriarch Bartholomew proposed returning under the omophorion of Constantinople. Moreover, he promised to maintain the status of a special independent structure for the archdiocese as part of the Ecumenical Patriarchate. According to this proposal, the archbishopric will continue to be directly subordinate to the Phanar, bypassing the French Metropolis. Patriarch Bartholomew assured Archbishop John that the process of creating a new charter of the archbishopric is now underway – with broad rights, as they were before.” Although the author of this article is very opposed to Archbishop John, some credence may be given to the part quoted above as the Archbishop’s communique states that one of three options is “to set up a bilateral dialogue [with the Ecumenical Patriarchate]to re-examine the possibility of a new ecclesial structure for our Archdiocese.” The Archbishop’s communique makes it clear that the Ecumenical Patriarch asked that the assembly on September 7 be postponed. The apparent refusal of Archbishop John to postpone the assembly may be the reason for his discharge. The next week and a half should be very interesting. [Unfortunately, I will be on a short vacation beginning September 5 and will not be able to report on the events in an immediate fashion.] The Holy Synod of the Moscow Patriarchate met on Friday, August 30. The following are the minutes of the meeting. http://www.patriarchia.ru/db/text/5492005.html One of the most interesting items is that Archbishop Amvrosij (Ermakov) has been appointed rector of the Sretensky Theological Seminary. Archbishop Amvrosij was rector of the St. Petersburg Theological Academy from 2008 to July 2018, at which time he was appointed rector of the Moscow Theological Schools. On July 9, 2019, the Holy Synod appointed him acting rector of the Sretensky Theological Seminary, while retaining his position as rector of the Moscow Theological Academy. http://www.patriarchia.ru/db/text/118363.html (summary of Amvrosij’s prior positions and responsibilities) Now, the Holy Synod has relieved Archbishop Amvrosij of his responsibilities as rector of the Moscow Theological Academy and made him rector (now longer “acting”) of the Sretensky Theological Seminary. (Journal Entry 104) The Holy Synod has now also made Archbishop Amvrosij the “Namestnik” (Наместник – the governor of an stauropegial monastery) of the Sretensky Stauropegial (one under the direct supervision of the Patriarch) Monastery. (Journal Entry 105) Thus, Archbishop Amvrosij now heads both the Sretensky Monastery and its Seminary – the same positions that Metropolitan Tikhon (Shevkunov) held prior to May 19, 2018. http://www.patriarchia.ru/db/text/60784.html (summary of Tikhon’s prior positions and responsibilities). Metropolitan Tikhon (Shevkunov) is, of course, the very popular bishop whom some believe might be the next Patriarch. He is also alleged to be the confessor of President Putin. Before he was transferred to Pskov by the Holy Synod, Sretensky was the base of operations of Tikhon and source of his influence. Now Sretensky will be headed by Archbishop Amvrosij. In my opinion, Archbishop Amvosij is a “star” in the education system of the Moscow Patriarchate. He was highly regarded as rector of the St. Petersburg Theological Academy and was very popular with his students. He is a strong and dynamic leader. It is very likely that his influence will be strongly felt at Sretensky. You may also recall that the Holy Synod on July 9 established a commission, headed by Archbishop Amvrosij, “to study the possibility of optimizing the educational process in these religious schools [the Moscow Academy and the Sretensky Seminary]and increasing the level of coordination of their scientific and pedagogical activities.” https://mospat.ru/ru/2019/07/09/news176092/ (Journal Entry 75) This resulted in protests in the media that Patriarch Kirill was engaging in a political move to eliminate the Sretensky Seminary. On July 23, Patriarch Kirill issued a document that simply specifies the specializations that each school will have. http://www.patriarchia.ru/db/text/5476288.html This seemed to allay the fears about the elimination of the Sretnesky Seminary. The appointment of Archbishop Amvrosij as rector of the Sretensky Seminary is further evidence that the Seminary will not disappear. In addition, Archbishop Amvrosij has a personal interest in preserving Sretensky as he was a monk there beginning in 2000 and was director of its famous choir. However, with a strong leader such as Archbishop Amvrosij, changes may occur, and Sretensky may be less identified with Metropolitan Tikhon in the future. In other news, Metropolitan Sergiy of Singapore (Moscow Patriarchate), head of the newly established Exarchate of Southeast Asia, has written a sharp “open letter” to Metropolitan Ambrosios of Korea (Ecumenical Patriarchate) concerning an interview given by the latter criticizing the Moscow Patriarchate. See https://theorthodoxworld.com/exclusive-open-letter-of-metropolitan-sergiy-of-singapore-to-metropolitan-ambrosios-of-korea/ (the open letter in English); https://theorthodoxworld.com/exclusive-how-the-moscow-patriarchate-tramples-on-church-canons-and-undermines-orthodox-unity-in-korea/ (the original interview in English). The Catholic delegation from Rome, headed by Father Hyacinthe Destivelle O.P., met with both Patriarch Kirill and Metropolitan Hilarion. The delegation is part of the annual exchange between the Moscow Patriarchate and the Vatican. https://mospat.ru/en/2019/08/30/news176954/ (meeting with Patriarch); https://mospat.ru/en/2019/08/29/news176947/ (meeting with Metropolitan Hilarion). The very important Serbian hierarch, Bishop Irinej of Backa, is visiting Russia with a group of pilgrims. On August 28, he, Metropolitan Hilarion, and Metropolitan Tikhon celebrated the Liturgy together at Pskov. https://mospat.ru/en/2019/08/29/news176934/ At that time, Metropolitan Hilarion delivered another strong attack against the Ecumenical Patriarchate. On August 29, the first meeting of the newly elected Ukrainian parliament was held. Metropolitan Onufry, Metropolitan Epifany, and other church leaders were present in the first row of the balcony. https://news.church.ua/2019/08/29/predstoyatel-vzyav-uchast-v-urochistomu-zasidanni-verxovnoji-radi/ The following shows the number of delegates that each faction has in the new parliament. https://rada.gov.ua/en/news/News/179734.html (English). Zelensky’s faction, the People’s Servant Party, has approximately 60 percent of the delegates. The Opposition Platform–For Life faction, sympathetic to Moscow, has approximately 10 percent of the delegates. Rumors continue that Pope Francis may accept the invitation of operatic soprano Svetlana Kasyan (her husband is Leonid Leonid Sevastianov, the head of a charitable fund established by Metropolitan Hilarion) to visit her family’s apartment in Moscow. The latest rumor relates to repairs being suddenly made by the city to the facade of the building in which the apartment is located. https://credo.press/226306/ With respect to these rumors, I remain a skeptic. Share. Twitter Facebook Google+ Pinterest LinkedIn Tumblr Email Previous ArticleEncyclical of Ecumenical Patriarch Bartholomew for the Feast of Indiction and the First Day of the Ecclesiastical Year and the Day of Environmental Protection 1 Comment Ted D on August 31, 2019 7:37 pm Mush, mud and murky waters, the result of disobedience to the Mother Church, Lord have Mercy – Russian Ecclesiastical imperialism at its best. Reply Leave A Reply Cancel Reply This site uses Akismet to reduce spam. Learn how your comment data is processed. Share this page DISCLAIMER All articles represent the views of the authors and not necessarily the official views of Orthodox Christian Laity (OCL). They are posted to encourage thoughtful discussion on topics and concerns relevant to Orthodox Christians living in a pluralistic society. OCL encourages your comments. Stay Informed! Subscribe to our Newsletter WE NEED YOUR HELP! "If this web site is meaningful to you, support OCL with your Donation via Pay Pal!" DONATE NOW Upcoming Events International Conference on the Theological Heritage of Fr. Georges Florovsky September 1 - September 3 27th International Ecumenical Conference on Orthodox Spirituality September 4 @ 8:00 am - September 6 @ 5:00 pm EDT Orthodoxy in America Lecture Series at Fordham University September 24 @ 6:00 pm - 9:00 pm EDT Orthodox Christian Laity 32nd Annual Meeting November 2 @ 9:00 am - 12:00 pm EDT View All Events Recent Comments Interesting Developments at the Meetings of the Synods of Constantinople and Moscow (0) Ted D - Mush, mud and murky waters, the result of disobedience to the Mother Church, Lord have Mercy - Russian Ecclesiastical imperialism at its best. – Aug 31, 7:37 PM OCL Leadership Enjoys Inspirational and Productive Meeting with His Eminence, Archbishop Elpidophoros (27) Nikolai - Ted, you are just SO wrong! To say, "There is NO American Church," is plain DELUSIONAL! Foreign bishops taking the money of American Orthodox is... – Aug 31, 7:15 AM Mother Elizabeth (Klipa - Bacha) - You cannot have a "Mother Church in Constantinople" when there is no longer a "Constantinople"! Eto fact! Constantinople is non-existent as a political entity today... – Aug 29, 10:00 PM Mother Elizabeth (Klipa - Bacha) - Yes! We who were present and ministering in the Orthodoxy of America in this decisive era of the 1970's with expectations of "Pan-Orthodox Unity" have... – Aug 29, 7:19 PM Pew Research Center: Orthodox Christianity in the 21st Century (3) Ted D - Christianity is not a product or a popularity contest - Numbers are good to look at, but God does not work with numbers. If He... – Aug 31, 12:41 AM CONTRA “FATHER-ISM” - ON SPIRITUAL AND THEOLOGICAL ABUSE (9) Ted D - In a previous comment I said that it is "very peculiar" to see people comment; now I must say, it is very sad to see... – Aug 29, 5:34 PM Constantinos - Well, Ted D, you said the soul goes through great torment after death. Perhaps, you can explain to me what Christ meant when He told... – Aug 29, 12:54 AM Jk - Ted, you quote Fr Metallinos as if he is an absolute authority. I have no idea what "Hellenism is the Capitol of Christianity" means. The... – Aug 28, 10:34 PM Ted D - The "aerial toll houses" - This is a topic tossed around as a major teaching of shorts. It is not even close to that and... – Aug 27, 6:16 PM OCL Archives Online Project for Orthodox Renewal Support OCL through Amazon St. Symeon the New Theologian and St. Photini are the Patron Saints of OCL Orthodox Christian Laity PO Box 6954 West Palm Beach, FL · 33405 561-585-0245 Sponsored by Ann Souvall in memory of husband George DISCLAIMER: All articles represent the views of the authors and not necessarily the official views of Orthodox Christian Laity (OCL). They are posted to encourage thoughtful discussion on topics and concerns relevant to Orthodox Christians living in a pluralistic society. OCL encourages your comments. ©2018 Orthodox Christian Laity (OCL) · Login
+        count 36500
+        count 36600
+        count 36700
+        count 36800
+        count 36900
+        count 37000
+        count 37100
+        count 37200
+        count 37300
+        count 37400
+        count 37500
+        count 37600
+        count 37700
+        count 37800
+        count 37900
+        count 38000
+        count 38100
+        count 38200
+        count 38300
+        count 38400
+        count 38500
+        count 38600
+        count 38700
+        count 38800
+        count 38900
+        count 39000
+        count 39100
+        count 39200
+        find Evanston
+        title Terrence Cullen Obituary - Albany, NY | Albany Times Union
+        text Terrence Cullen Obituary - Albany, NY | Albany Times Union
+        Powered By OBITUARIES FUNERAL HOMES SEND FLOWERS NEWS & ADVICE MEMORIALS Search SEARCH Obituaries and Guest Books BROWSE Most Recent By Location Notable Deaths SUBMIT Submit an Obituary SEARCH Search By Location SYMPATHY GIFTS Send Flowers BROWSE Funeral Flowers Charitable Donations BROWSE News & Advice Celebrity Deaths Culture and Trends Explore History Photo Galleries Advice and Support BROWSE Memorial Sites Terrence Patrick "Terry" Cullen Guest Book Be the first to share your memories or express your condolences in the Guest Book for Terrence Patrick "Terry" Cullen. View Sign Obituary Send Flowers Cullen, Terrence Patrick "Terry" ALBANY Terrence Patrick Cullen "Terry" died peacefully in his sleep on August 26, 2019, after an extended illness. He was predeceased by his parents Edward and Elizabeth (Betty Powers); and his brother Michael. He is survived by his brothers, Joseph (Sherre) of Evanston, Ill., William (Roxanne) of Penfield, N.Y., and David (Vicky) of Horseheads, N.Y.; and his sister-in-law Jean Cullen of Elmira, N.Y. He was the beloved uncle of Adam, Brian (Kate), Ethan, Matthew, Jaimi, and Lindsey. He adored his great-nephew Graham. Terry is also survived by his former partner David Shetler; lifelong friends, Joseph Egnaczak and Michael McCann, and very close friends, Peter Mesh, Peter Slattery, Ron Gleason and Bill Capone; his goddaughter Marielle Celeste Brown and her mother Lisa Brown; and many dear friends. Terry was born in Elmira, N.Y. on April 6, 1955. He graduated from Thomas A. Edison High School in Elmira Heights, N.Y. in 1973. He was on the swim team and remained an avid swimmer his whole life. Terry competed in the Gay Games in Vancouver in 1990. Terry attended Corning Community College and the State University of New York at Alfred where he obtained a degree in nursing. He later went on to earn an M.P.A. from Syracuse University. Terry worked for the State of New York for nearly 40 years, first as a nurse and then in the Budget Department, where he retired as the deputy director of medicaid finance. Terry loved to travel and enjoyed his many adventures with family and friends, especially his trips abroad, to any beach anywhere, and to Wanakena in the beautiful Adirondacks. Terry played on the volleyball league in Syracuse for many years and continued to play after moving to Albany. He was also active in a tennis league in Albany, and he continued to play tennis, swim, and even learned to play pickle ball the last year of his life. Terry volunteered as a teen mentor for many years. After retiring, Terry volunteered at Albany Medical Center and Parsons Child & Family Center because he found great joy when working with children. Terry will be remembered for his kind heart, his thoughtful nature, and his gentle spirit. Terry was beloved by many. This was made clear by the outpouring of support shown by so many friends who helped him navigate his challenging final years. What a blessing and what a gift to him! A memorial service will be planned for a future date. In lieu of flowers, please consider making a gift to support Alzheimer's research, with the hope that fewer people will have to live with this dreadful disease. Please send your donation in memory of Terry to the online at or mail your gift to the at 225 N. Michigan Ave., Fl. 17, Chicago, IL, 60601. Published in Albany Times Union on Sept. 1, 2019 Print | View Guest Book | Helpful Links Additional Resources Send Funeral Flowers How To Submit An Obituary Find Advice & Support Funeral Etiquette Grief Support Groups Return to Today's Obituary Notices for Albany Times Union Share Obituary Email Obituary Give others a chance to express condolences. Share on Facebook Share via Email Not right now. Follow this Obituary Remember on Facebook Follow via email *Please enter a valid email address. Bookmark this memorial on Facebook with the My Memorials™ application. My Memorials™ helps you honor departed family members, friends, and even favorite celebrities – all on your Facebook page. Thank you. You have now memorialized on Facebook. The My Memorials Facebook app allows you to: Connect with memorials that are important to you. Get updates on your memorials in your Facebook News Feed. Share your memories with your Facebook friends. VIEW YOUR MY MEMORIALS PAGE OR Return to Obituary No, ThanksGO CLOSE Close Donations Please consider a donation, as requested by the family. PRIVACY POLICYTERMSCONTACT USFAQ © 2019 Legacy.com. All rights reserved.
+        count 39300
+
+
+        Process finished with exit code 0
+
+
+
+        /Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/bin/java "-Dmaven.multiModuleProjectDirectory=/Users/yiweizhang/Desktop/comp_sci 396/project/ssa-skeleton" "-Dmaven.home=/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3" "-Dclassworlds.conf=/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/bin/m2.conf" -Didea.launcher.port=56458 "-Didea.launcher.bin.path=/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds-2.5.2.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar" com.intellij.rt.execution.application.AppMainV2 org.codehaus.classworlds.Launcher -Didea.version=2018.3.4 package exec:java -Dexec.mainClass=edu.northwestern.ssa.App
+        [INFO] Scanning for projects...
+        [INFO]
+        [INFO] ------------------------------------------------------------------------
+        [INFO] Building news-import 1.0-SNAPSHOT
+        [INFO] ------------------------------------------------------------------------
+        [INFO]
+        [INFO] --- maven-resources-plugin:3.0.2:resources (default-resources) @ news-import ---
+        [INFO] Using 'UTF-8' encoding to copy filtered resources.
+        [INFO] Copying 3 resources
+        [INFO]
+        [INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ news-import ---
+        [INFO] Changes detected - recompiling the module!
+        [INFO] Compiling 3 source files to /Users/yiweizhang/Desktop/comp_sci 396/project/ssa-skeleton/target/classes
+        [INFO]
+        [INFO] --- maven-resources-plugin:3.0.2:testResources (default-testResources) @ news-import ---
+        [INFO] Using 'UTF-8' encoding to copy filtered resources.
+        [INFO] skip non existing resourceDirectory /Users/yiweizhang/Desktop/comp_sci 396/project/ssa-skeleton/src/test/resources
+        [INFO]
+        [INFO] --- maven-compiler-plugin:3.8.0:testCompile (default-testCompile) @ news-import ---
+        [INFO] No sources to compile
+        [INFO]
+        [INFO] --- maven-surefire-plugin:2.22.1:test (default-test) @ news-import ---
+        [INFO] No tests to run.
+        [INFO]
+        [INFO] --- maven-jar-plugin:3.0.2:jar (default-jar) @ news-import ---
+        [INFO] Building jar: /Users/yiweizhang/Desktop/comp_sci 396/project/ssa-skeleton/target/news-import-1.0-SNAPSHOT.jar
+        [INFO]
+        [INFO] --- exec-maven-plugin:1.6.0:java (default-cli) @ news-import ---
+        build success
+        Finish Part 1
+        count 0
+        count 100
+        count 200
+        count 300
+        count 400
+        count 500
+        count 600
+        count 700
+        count 800
+        count 900
+        count 1000
+        count 1100
+        count 1200
+        count 1300
+        count 1400
+        count 1500
+        count 1600
+        count 1700
+        count 1800
+        count 1900
+        count 2000
+        count 2100
+        count 2200
+        count 2300
+        count 2400
+        count 2500
+        count 2600
+        count 2700
+        count 2800
+        count 2900
+        count 3000
+        count 3100
+        count 3200
+        count 3300
+        count 3400
+        count 3500
+        count 3600
+        count 3700
+        count 3800
+        count 3900
+        count 4000
+        count 4100
+        count 4200
+        count 4300
+        count 4400
+        count 4500
+        count 4600
+        count 4700
+        count 4800
+        count 4900
+        count 5000
+        count 5100
+        count 5200
+        count 5300
+        count 5400
+        count 5500
+        count 5600
+        count 5700
+        count 5800
+        count 5900
+        count 6000
+        count 6100
+        count 6200
+        [WARNING]
+        org.jsoup.UncheckedIOException: java.io.IOException: Input is binary and unsupported
+        at org.jsoup.parser.CharacterReader.<init>(CharacterReader.java:38)
+        at org.jsoup.parser.CharacterReader.<init>(CharacterReader.java:43)
+        at org.jsoup.parser.TreeBuilder.initialiseParse(TreeBuilder.java:38)
+        at org.jsoup.parser.HtmlTreeBuilder.initialiseParse(HtmlTreeBuilder.java:65)
+        at org.jsoup.parser.TreeBuilder.parse(TreeBuilder.java:46)
+        at org.jsoup.parser.Parser.parse(Parser.java:107)
+        at org.jsoup.Jsoup.parse(Jsoup.java:58)
+        at edu.northwestern.ssa.App.lambda$main$0(App.java:119)
+        at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+        at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+        at java.base/java.lang.Thread.run(Thread.java:834)
+        Caused by: java.io.IOException: Input is binary and unsupported
+        at org.jsoup.UncheckedIOException.<init>(UncheckedIOException.java:11)
+        ... 11 more
+        [WARNING]
+        org.jsoup.UncheckedIOException: java.io.IOException: Input is binary and unsupported
+        at org.jsoup.parser.CharacterReader.<init>(CharacterReader.java:38)
+        at org.jsoup.parser.CharacterReader.<init>(CharacterReader.java:43)
+        at org.jsoup.parser.TreeBuilder.initialiseParse(TreeBuilder.java:38)
+        at org.jsoup.parser.HtmlTreeBuilder.initialiseParse(HtmlTreeBuilder.java:65)
+        at org.jsoup.parser.TreeBuilder.parse(TreeBuilder.java:46)
+        at org.jsoup.parser.Parser.parse(Parser.java:107)
+        at org.jsoup.Jsoup.parse(Jsoup.java:58)
+        at edu.northwestern.ssa.App.lambda$main$0(App.java:119)
+        at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+        at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+        at java.base/java.lang.Thread.run(Thread.java:834)
+        Caused by: java.io.IOException: Input is binary and unsupported
+        at org.jsoup.UncheckedIOException.<init>(UncheckedIOException.java:11)
+        ... 11 more
+        count 6300
+        count 6400
+        count 6500
+        count 6600
+        count 6700
+        count 6800
+        count 6900
+        count 7000
+        count 7100
+        count 7200
+        count 7300
+        count 7400
+        count 7500
+        count 7600
+        count 7700
+        count 7800
+        count 7900
+        count 8000
+        count 8100
+        count 8200
+        count 8300
+        count 8400
+        count 8500
+        count 8600
+        count 8700
+        count 8800
+        count 8900
+        count 9000
+        count 9100
+        count 9200
+        count 9300
+        count 9400
+        count 9500
+        count 9600
+        count 9700
+        count 9800
+        count 9900
+        count 10000
+        count 10100
+        count 10200
+        count 10300
+        count 10400
+        count 10500
+        count 10600
+        count 10700
+        count 10800
+        count 10900
+        count 11000
+        count 11100
+        count 11200
+        count 11300
+        count 11400
+        count 11500
+        count 11600
+        count 11700
+        count 11800
+        count 11900
+        count 12000
+        count 12100
+        count 12200
+        count 12300
+        count 12400
+        count 12500
+        count 12600
+        count 12700
+        count 12800
+        count 12900
+        count 13000
+        count 13100
+        count 13200
+        count 13300
+        count 13400
+        count 13500
+        count 13600
+        count 13700
+        count 13800
+        count 13900
+        count 14000
+        count 14100
+        count 14200
+        count 14300
+        count 14400
+        count 14500
+        count 14600
+        count 14700
+        count 14800
+        count 14900
+        count 15000
+        count 15100
+        count 15200
+        count 15300
+        count 15400
+        count 15500
+        count 15600
+        count 15700
+        count 15800
+        count 15900
+        count 16000
+        count 16100
+        count 16200
+        count 16300
+        count 16400
+        count 16500
+        count 16600
+        count 16700
+        count 16800
+        count 16900
+        count 17000
+        count 17100
+        count 17200
+        count 17300
+        count 17400
+        count 17500
+        count 17600
+        count 17700
+        count 17800
+        count 17900
+        count 18000
+        count 18100
+        count 18200
+        count 18300
+        count 18400
+        count 18500
+        count 18600
+        count 18700
+        count 18800
+        count 18900
+        count 19000
+        count 19100
+        count 19200
+        count 19300
+        count 19400
+        count 19500
+        count 19600
+        count 19700
+        count 19800
+        count 19900
+        count 20000
+        count 20100
+        count 20200
+        count 20300
+        count 20400
+        count 20500
+        count 20600
+        count 20700
+        count 20800
+        count 20900
+        count 21000
+        count 21100
+        count 21200
+        count 21300
+        count 21400
+        count 21500
+        count 21600
+        count 21700
+        count 21800
+        count 21900
+        count 22000
+        count 22100
+        count 22200
+        count 22300
+        count 22400
+        count 22500
+        count 22600
+        count 22700
+        count 22800
+        count 22900
+        count 23000
+        count 23100
+        count 23200
+        count 23300
+        count 23400
+        count 23500
+        count 23600
+        count 23700
+        count 23800
+        count 23900
+        count 24000
+        count 24100
+        count 24200
+        count 24300
+        count 24400
+        count 24500
+        count 24600
+        count 24700
+        count 24800
+        count 24900
+        count 25000
+        count 25100
+        count 25200
+        count 25300
+        count 25400
+        count 25500
+        count 25600
+        count 25700
+        count 25800
+        count 25900
+        count 26000
+        count 26100
+        count 26200
+        count 26300
+        count 26400
+        count 26500
+        count 26600
+        count 26700
+        count 26800
+        count 26900
+        count 27000
+        count 27100
+        count 27200
+        count 27300
+        count 27400
+        count 27500
+        count 27600
+        count 27700
+        count 27800
+        count 27900
+        count 28000
+        count 28100
+        count 28200
+        count 28300
+        count 28400
+        count 28500
+        count 28600
+        count 28700
+        count 28800
+        count 28900
+        count 29000
+        count 29100
+        count 29200
+        count 29300
+        count 29400
+        count 29500
+        count 29600
+        count 29700
+        count 29800
+        count 29900
+        count 30000
+        count 30100
+        count 30200
+        count 30300
+        count 30400
+        count 30500
+        count 30600
+        count 30700
+        count 30800
+        count 30900
+        count 31000
+        count 31100
+        count 31200
+        count 31300
+        count 31400
+        count 31500
+        count 31600
+        count 31700
+        count 31800
+        count 31900
+        count 32000
+        count 32100
+        count 32200
+        count 32300
+        count 32400
+        count 32500
+        count 32600
+        count 32700
+        count 32800
+        count 32900
+        count 33000
+        count 33100
+        count 33200
+        count 33300
+        count 33400
+        count 33500
+        count 33600
+        count 33700
+        count 33800
+        count 33900
+        count 34000
+        count 34100
+        count 34200
+        count 34300
+        count 34400
+        count 34500
+        count 34600
+        count 34700
+        count 34800
+        count 34900
+        count 35000
+        count 35100
+        count 35200
+        count 35300
+        count 35400
+        count 35500
+        count 35600
+        count 35700
+        count 35800
+        count 35900
+        count 36000
+        count 36100
+        count 36200
+        count 36300
+        count 36400
+        count 36500
+        find Evanston
+        title Encyclical of Ecumenical Patriarch Bartholomew for the Feast of Indiction and the First Day of the Ecclesiastical Year and the Day of Environmental Protection
+        text Encyclical of Ecumenical Patriarch Bartholomew for the Feast of Indiction and the First Day of the Ecclesiastical Year and the Day of Environmental Protection THE TIME FOR ORTHODOX UNITY IS NOW! Navigate Home OCL About OCL Leadership OCL News OCL Publications Focused Study and Research Topics OCL Archives at DePaul University Orthodox News & Links Orthodox News Stories Headlines & News Archives Governance & Unity Governance Top Stories Governance & Unity Essays Grassroots Unity in Action OCL Forums Orthodox Christian Laity News Web Links Audio & Video Audio Index Video Index DONATE Contact You are at:Home»Governance & Unity News»Encyclical of Ecumenical Patriarch Bartholomew for the Feast of Indiction and the First Day of the Ecclesiastical Year and the Day of Environmental Protection Encyclical of Ecumenical Patriarch Bartholomew for the Feast of Indiction and the First Day of the Ecclesiastical Year and the Day of Environmental Protection 0 By Webmaster on August 31, 2019 Governance & Unity News, Governance Top Stories Source: Greek Orthodox Archdiocese of America September 1, 2019 Prot. No. 582 + B A R T H O L O M E W By God’s Mercy Archbishop of Constantinople-New Rome and Ecumenical Patriarch To All the Plenitude of the Church Grace, Peace and Mercy from the Maker of All Creation Our Lord, God and Savior Jesus Christ Dearest brother Hierarchs and beloved children in the Lord, With the goodness and grace of the all-bountiful God, today marks the 30th anniversary since the Holy Great Church of Christ established the feast of Indiction and first day of the ecclesiastical year as “the day of environmental protection.” We did not only address our Orthodox faithful, nor again just Christian believer or even representatives of other religions, but also political leaders, environmentalists and other scientists, as well as intellectuals and all people of good will, seeking their contribution. The ecological activities of the Ecumenical Patriarchate served as the inspiration for theology to advance prominently the truth of Christian anthropology and cosmology, the Eucharistic worldview and treatment of creation, along with the spirit of Orthodox asceticism as the basis for understanding the reason for and response to the ecological crisis. The bibliography related to theological ecology or ecological theology is extensive and on the whole constitutes an admirable Orthodox witness before the major challenges of contemporary humanity and earthly life. Concern for the ecological crisis and for the global dimensions and consequences of sin – of this alienating internal “reversal of values” in humankind – brought to the surface the connection between ecological and social issues as well as for the need to address them jointly. Mobilizing forces for the protection of the integrity of creation and for social justice are interconnected and inseparable actions. The interest of the Ecumenical Patriarchate for the protection of creation did not arise as a reaction to or as a result of the contemporary ecological crisis. The latter was simply the motivation and occasion for the Church to express, develop, proclaim and promote its environmentally-friendly principles. The foundation of the Church’s undiminished concern for the natural environment lies in its ecclesiological identity and theology. Respect and care for creation are a dimension of our faith, the content of our life in the Church and as the Church. The very life of the Church is “an experienced ecology,” an applied respect and care for creation, and the source of its environmental activities. In essence, the interest of the Church for the protection of the environment is the extension of the Holy Eucharist in all dimensions of its relationship to the world. The liturgical life of the Church, the ascetic ethos, pastoral service and experience of the cross and resurrection by the faithful, the unquenchable desire for eternity: all of these comprise a communion of persons for which the natural reality cannot be reduced to an object or useful matter to meet the needs of an individual or humanity; by contrast, this reality is considered as an act, deed the handiwork of a personal God, who calls us to respect and protect it, thereby rendering us His “coworkers,” “stewards,” “guardians,” and “priests” of creation in order to cultivate a Eucharistic relationship with it. Care for the natural environment is not an added activity, but an essential expression of church life. It does not have a secular, but rather a purely ecclesiastical character. It is a “liturgical ministry.” All of the initiatives and activities of the Church are “applied ecclesiology.” In this sense, theological ecology does not merely refer to the development of an ecological awareness or the response to ecological problems on the basis of the principles of Christian anthropology and cosmology. On the contrary, it involves the renewal of the whole creation in Christ, just as this is realized and experienced in the Holy Eucharist, which is an image and foretaste of the eschatological fullness of the Divine Economy in the doxological wholeness and luminous splendor of the heavenly kingdom. Most honorable brothers and most precious children in the Lord, The ecological crisis reveals that our world comprises an integral whole, that our problems are global and shared. In order to meet these challenges, we require a multilayered mobilization, a common accord, direction and action. It is inconceivable for humankind to recognize the severity of the problem and yet continue to behave in oblivion. While in recent decades the dominant model of economic development in the context of globalization – highlighting the fetishism of financial markers and magnification of financial profit – has exacerbated ecological and economic problems, the notion still prevails widely that “there is no other alternative” and that not conforming to the rigid validity logic of the world’s economy will lead to unbridled social and financial situations. Thus, any alternative forms of development, along with the power of social solidarity and justice, are overlooked and undermined. For our part, however, we are obliged to assume greater measures for the application of the ecological and social consequences of our faith. It is extremely vital that our archdioceses and metropolises, as well as many of our parishes and sacred monasteries, have fostered initiatives and activities for the protection of the environment, but also various programs of ecological education. We should pay special attention to the Christian formation of our youth, so that it may function as an area of cultivation and development of an ecological ethos and solidarity. Childhood and adolescence are particularly susceptible life phases for ecological and social responsiveness. Aware of the urgency of environmental education, the Ecumenical Patriarchate devoted the Third in its series of international Halki Summits to the subject of “Theological Education and Ecological Awareness” (Istanbul, May 31st to June 4th, 2019) with a view to incorporating ecology and environmental awareness into programs and curricula of theological schools and seminaries. The solution to the great challenges of our world is unattainable without spiritual orientation. In conclusion, then, we wish all of you a favorable and blessed ecclesiastical year, filled with works pleasing to God. We invite the radiant children of the Mother Church throughout the world to pray for the integrity of creation, to be sustainable and charitable in every aspect of their lives, to strive for the protection of the natural environment, as well as the promotion of peace and justice. And we proclaim once more the truth that there can be no genuine progress, when the “very good” creation and the human person made in the image and likeness of God suffer. Finally, through the intercession of the first-among-the-saints Theotokos Pammakaristos, we invoke upon you the life-giving grace and boundless mercy of the Creator and Provider of all. September 1, 2019 +Bartholomew of Constantinople Your fervent supplicant before God Share. Twitter Facebook Google+ Pinterest LinkedIn Tumblr Email Previous ArticleMusings of the Executive Director: Reflecting on the Challenges of the New Ecclesiastical Year 2019 Next Article Interesting Developments at the Meetings of the Synods of Constantinople and Moscow Leave A Reply Cancel Reply This site uses Akismet to reduce spam. Learn how your comment data is processed. Share this page DISCLAIMER All articles represent the views of the authors and not necessarily the official views of Orthodox Christian Laity (OCL). They are posted to encourage thoughtful discussion on topics and concerns relevant to Orthodox Christians living in a pluralistic society. OCL encourages your comments. Stay Informed! Subscribe to our Newsletter WE NEED YOUR HELP! "If this web site is meaningful to you, support OCL with your Donation via Pay Pal!" DONATE NOW Upcoming Events International Conference on the Theological Heritage of Fr. Georges Florovsky September 1 - September 3 27th International Ecumenical Conference on Orthodox Spirituality September 4 @ 8:00 am - September 6 @ 5:00 pm EDT Orthodoxy in America Lecture Series at Fordham University September 24 @ 6:00 pm - 9:00 pm EDT Orthodox Christian Laity 32nd Annual Meeting November 2 @ 9:00 am - 12:00 pm EDT View All Events Recent Comments Interesting Developments at the Meetings of the Synods of Constantinople and Moscow (0) Ted D - Mush, mud and murky waters, the result of disobedience to the Mother Church, Lord have Mercy - Russian Ecclesiastical imperialism at its best. – Aug 31, 7:37 PM OCL Leadership Enjoys Inspirational and Productive Meeting with His Eminence, Archbishop Elpidophoros (27) Nikolai - Ted, you are just SO wrong! To say, "There is NO American Church," is plain DELUSIONAL! Foreign bishops taking the money of American Orthodox is... – Aug 31, 7:15 AM Mother Elizabeth (Klipa - Bacha) - You cannot have a "Mother Church in Constantinople" when there is no longer a "Constantinople"! Eto fact! Constantinople is non-existent as a political entity today... – Aug 29, 10:00 PM Mother Elizabeth (Klipa - Bacha) - Yes! We who were present and ministering in the Orthodoxy of America in this decisive era of the 1970's with expectations of "Pan-Orthodox Unity" have... – Aug 29, 7:19 PM Pew Research Center: Orthodox Christianity in the 21st Century (3) Ted D - Christianity is not a product or a popularity contest - Numbers are good to look at, but God does not work with numbers. If He... – Aug 31, 12:41 AM CONTRA “FATHER-ISM” - ON SPIRITUAL AND THEOLOGICAL ABUSE (9) Ted D - In a previous comment I said that it is "very peculiar" to see people comment; now I must say, it is very sad to see... – Aug 29, 5:34 PM Constantinos - Well, Ted D, you said the soul goes through great torment after death. Perhaps, you can explain to me what Christ meant when He told... – Aug 29, 12:54 AM Jk - Ted, you quote Fr Metallinos as if he is an absolute authority. I have no idea what "Hellenism is the Capitol of Christianity" means. The... – Aug 28, 10:34 PM Ted D - The "aerial toll houses" - This is a topic tossed around as a major teaching of shorts. It is not even close to that and... – Aug 27, 6:16 PM OCL Archives Online Project for Orthodox Renewal Support OCL through Amazon St. Symeon the New Theologian and St. Photini are the Patron Saints of OCL Orthodox Christian Laity PO Box 6954 West Palm Beach, FL · 33405 561-585-0245 Sponsored by Ann Souvall in memory of husband George DISCLAIMER: All articles represent the views of the authors and not necessarily the official views of Orthodox Christian Laity (OCL). They are posted to encourage thoughtful discussion on topics and concerns relevant to Orthodox Christians living in a pluralistic society. OCL encourages your comments. ©2018 Orthodox Christian Laity (OCL) · Login
+        find Evanston
+        title Musings of the Executive Director: Reflecting on the Challenges of the New Ecclesiastical Year 2019
+        text Musings of the Executive Director: Reflecting on the Challenges of the New Ecclesiastical Year 2019 THE TIME FOR ORTHODOX UNITY IS NOW! Navigate Home OCL About OCL Leadership OCL News OCL Publications Focused Study and Research Topics OCL Archives at DePaul University Orthodox News & Links Orthodox News Stories Headlines & News Archives Governance & Unity Governance Top Stories Governance & Unity Essays Grassroots Unity in Action OCL Forums Orthodox Christian Laity News Web Links Audio & Video Audio Index Video Index DONATE Contact You are at:Home»Governance & Unity News»Governance & Unity Essays»Musings of the Executive Director: Reflecting on the Challenges of the New Ecclesiastical Year 2019 Musings of the Executive Director: Reflecting on the Challenges of the New Ecclesiastical Year 2019 0 By Webmaster on August 31, 2019 Governance & Unity Essays, Governance & Unity News George Matsoukas, Executive Director of Orthodox Christian Laity Source: Orthodox Christian Laity A Crisis of Faith, Not of Theology, Very Rev George Florovsky, 40th Anniversary of his Falling Asleep in the Lord Excerpt from Orthodox Evangelist, Fall 2019, Vol. 53. No. 3: Brotherhood of St. Symeon the New Theologian, Miramar, FL The “Historic Church” is always an “imperfect Church,” despite her inherent sanctity. Every student of Church History knows it but well. The “Golden Age” of the Church – the age of Chrysostom and the Cappadocians – was an age of schisms, rifts, treason and suspicions. Did not St. Gregory of Nazianzus suggest that apparently Christ was asleep on the boat tossed by storms? Did not St. Basil describe the story of his time as that of an eclipse, when it was almost impossible in the darkness – to tell foes from friends? Was not St. John Chrysostom betrayed by his fellow-bishops and was to die as a “bloodless martyr”? And yet, it was, no doubt, a golden age! On the other hand, Christian preaching had always been an offense, already in the times of St. Paul. Yet, St. Paul did not think that it was permissible to “adjust” his preaching to the “capacity” of those to whom it had to be addressed. He did not hesitate “to offend” them. Why should we, in our own time, be shy at this point, and be so concerned with the “changing times”? There is no crisis of traditional theology, but there is a profound crisis of belief, of faith. Those, who are unable and unwilling to believe with the Church, still want to be counted as Christians. Then they face an alternative: disregard all that they do not find valid (what the majority of the actual membership in our Church is doing, without “theology”, dogmas, etc.) or call for a formal retraction of what they perceive as “traditional”, “obsolete”, “ancient”, “Hellenic.” They have lost faith, and for that reason, they feel that they need to change theology. Indeed, bad or negligent teaching in our Church has been responsible for that defection or ignorance. I mean, the teaching might have been deficient, but true theology is, nevertheless, true and valid. Reinterpretation may be needed, but not an adjustment. Let those who are still feeling with the Church (sentire cum ecclesia), thank God for His help and blessing, because faith is somehow always a gift of God, in Spiritu Sancto. What we are missing now is a theology well-presented. Unfortunately, one begins very often not with “the Faith as once delivered unto the Saints,” but with the alleged “Modern Mind,” which is, in fact, still in flux. A Protestant friend of mine rightly suggested that the “Modern Man” has not yet made up his mind. Rather, he is simply a person with modern moods and whims. George Matsoukas, OCL Executive Director Share. Twitter Facebook Google+ Pinterest LinkedIn Tumblr Email Previous ArticleGREEK CHURCH DOESN’T WANT TO BE RESPONSIBLE FOR A SCHISM IN ORTHODOXY—UKRAINIAN CHURCH SPEAKER Next Article Encyclical of Ecumenical Patriarch Bartholomew for the Feast of Indiction and the First Day of the Ecclesiastical Year and the Day of Environmental Protection Leave A Reply Cancel Reply This site uses Akismet to reduce spam. Learn how your comment data is processed. Share this page DISCLAIMER All articles represent the views of the authors and not necessarily the official views of Orthodox Christian Laity (OCL). They are posted to encourage thoughtful discussion on topics and concerns relevant to Orthodox Christians living in a pluralistic society. OCL encourages your comments. Stay Informed! Subscribe to our Newsletter WE NEED YOUR HELP! "If this web site is meaningful to you, support OCL with your Donation via Pay Pal!" DONATE NOW Upcoming Events International Conference on the Theological Heritage of Fr. Georges Florovsky September 1 - September 3 27th International Ecumenical Conference on Orthodox Spirituality September 4 @ 8:00 am - September 6 @ 5:00 pm EDT Orthodoxy in America Lecture Series at Fordham University September 24 @ 6:00 pm - 9:00 pm EDT Orthodox Christian Laity 32nd Annual Meeting November 2 @ 9:00 am - 12:00 pm EDT View All Events Recent Comments Interesting Developments at the Meetings of the Synods of Constantinople and Moscow (0) Ted D - Mush, mud and murky waters, the result of disobedience to the Mother Church, Lord have Mercy - Russian Ecclesiastical imperialism at its best. – Aug 31, 7:37 PM OCL Leadership Enjoys Inspirational and Productive Meeting with His Eminence, Archbishop Elpidophoros (27) Nikolai - Ted, you are just SO wrong! To say, "There is NO American Church," is plain DELUSIONAL! Foreign bishops taking the money of American Orthodox is... – Aug 31, 7:15 AM Mother Elizabeth (Klipa - Bacha) - You cannot have a "Mother Church in Constantinople" when there is no longer a "Constantinople"! Eto fact! Constantinople is non-existent as a political entity today... – Aug 29, 10:00 PM Mother Elizabeth (Klipa - Bacha) - Yes! We who were present and ministering in the Orthodoxy of America in this decisive era of the 1970's with expectations of "Pan-Orthodox Unity" have... – Aug 29, 7:19 PM Pew Research Center: Orthodox Christianity in the 21st Century (3) Ted D - Christianity is not a product or a popularity contest - Numbers are good to look at, but God does not work with numbers. If He... – Aug 31, 12:41 AM CONTRA “FATHER-ISM” - ON SPIRITUAL AND THEOLOGICAL ABUSE (9) Ted D - In a previous comment I said that it is "very peculiar" to see people comment; now I must say, it is very sad to see... – Aug 29, 5:34 PM Constantinos - Well, Ted D, you said the soul goes through great torment after death. Perhaps, you can explain to me what Christ meant when He told... – Aug 29, 12:54 AM Jk - Ted, you quote Fr Metallinos as if he is an absolute authority. I have no idea what "Hellenism is the Capitol of Christianity" means. The... – Aug 28, 10:34 PM Ted D - The "aerial toll houses" - This is a topic tossed around as a major teaching of shorts. It is not even close to that and... – Aug 27, 6:16 PM OCL Archives Online Project for Orthodox Renewal Support OCL through Amazon St. Symeon the New Theologian and St. Photini are the Patron Saints of OCL Orthodox Christian Laity PO Box 6954 West Palm Beach, FL · 33405 561-585-0245 Sponsored by Ann Souvall in memory of husband George DISCLAIMER: All articles represent the views of the authors and not necessarily the official views of Orthodox Christian Laity (OCL). They are posted to encourage thoughtful discussion on topics and concerns relevant to Orthodox Christians living in a pluralistic society. OCL encourages your comments. ©2018 Orthodox Christian Laity (OCL) · Login
+        find Evanston
+        title Interesting Developments at the Meetings of the Synods of Constantinople and Moscow
+        text Interesting Developments at the Meetings of the Synods of Constantinople and Moscow THE TIME FOR ORTHODOX UNITY IS NOW! Navigate Home OCL About OCL Leadership OCL News OCL Publications Focused Study and Research Topics OCL Archives at DePaul University Orthodox News & Links Orthodox News Stories Headlines & News Archives Governance & Unity Governance Top Stories Governance & Unity Essays Grassroots Unity in Action OCL Forums Orthodox Christian Laity News Web Links Audio & Video Audio Index Video Index DONATE Contact You are at:Home»Governance & Unity News»Interesting Developments at the Meetings of the Synods of Constantinople and Moscow Interesting Developments at the Meetings of the Synods of Constantinople and Moscow 1 By Webmaster on August 31, 2019 Governance & Unity News, Governance Top Stories Source: Peter Anderson, Seattle USA Holy Synod of the Ecumenical Patriarchate The Holy Synod of the Ecumenical Patriarchate held a meeting at the Phanar on August 29 and 30. The press release concerning the results of the meeting was posted today (Saturday). https://www.facebook.com/ecumenicalpatriarchate/?__tn__=kCH-R&eid=ARCT1A3O6dAskvFf0ErJbFzhmpS-zkbxs6v_KkfWrsdlDqjDVGWmFku5vJ8J-roM5_ttDWTqYUX0B0vx&hc_ref=ARTsNzwPjolkEHRPNLm-QSwZq98tdu4TmBYM4oj2fjRpMI6kD44dNy3HoJI9gFhBMMM&fref=nf An English-language summary can be read at https://www.romfea.news/the-decisions-of-the-holy-synod-of-ecumenical-patriarchate/. The latter states: During the meeting, it was decided to discharge Archbishop Ioannis [John] of Harioupolis from the Apostolic and Patriarchal Ecumenical Throne, personally and only to him, thereby relieving him of the responsibility of the Patriarchal Exarchate for Orthodox parishes of the Russian Tradition in Western Europe. As a consequence, Metropolitan Emmanuel of France is now responsible for parishes of the former Exarchate. The same is true of the rest of the former Exarchate parishes in other Western European countries, which fall under the responsibility of the respective Hierarchs of the Ecumenical Patriarchate in these areas. Furthermore, the Ecumenical Patriarchate has decided to appoint Archpriest Alexis Struve, University Professor, to replace the Head of St. Alexander Nevsky Holy Church in Paris. This discharge occurs approximately a week before the scheduled extraordinary assembly of the communities within the Archdiocese of the Russian Orthodox Church in Western Europe. The assembly had been called by Archbishop John and is to be held in Paris on September 7. It is reported that Archbishop John, who plans to chair the meeting, is strongly in favor of accepting the proposal of the Moscow Patriarchate in which certain concessions are promised if the Archdiocese comes under Moscow’s jurisdiction. The Office of the Archbishop (John) released today the following communique: http://www.exarchat.eu/spip.php?article2393 (official English translation). This communique may have been drafted before the discharge of the Archbishop had been communicated. The communique contains links to all of the documents that the Archbishop believes should be communicated to the assembly delegates. The communique also describes a meeting between the Archbishop and Ecumenical Patriarch Bartholomew at Chambesy on August 17. My reading of the Archbishop’s communique is that the Ecumenical Patriarch showed little flexibility in retreating from the prior decision to dissolve the exarchate. On the other hand, a different version of the meeting has been posted at https://credo.press/226327/. The latter article contends: “Patriarch Bartholomew proposed returning under the omophorion of Constantinople. Moreover, he promised to maintain the status of a special independent structure for the archdiocese as part of the Ecumenical Patriarchate. According to this proposal, the archbishopric will continue to be directly subordinate to the Phanar, bypassing the French Metropolis. Patriarch Bartholomew assured Archbishop John that the process of creating a new charter of the archbishopric is now underway – with broad rights, as they were before.” Although the author of this article is very opposed to Archbishop John, some credence may be given to the part quoted above as the Archbishop’s communique states that one of three options is “to set up a bilateral dialogue [with the Ecumenical Patriarchate]to re-examine the possibility of a new ecclesial structure for our Archdiocese.” The Archbishop’s communique makes it clear that the Ecumenical Patriarch asked that the assembly on September 7 be postponed. The apparent refusal of Archbishop John to postpone the assembly may be the reason for his discharge. The next week and a half should be very interesting. [Unfortunately, I will be on a short vacation beginning September 5 and will not be able to report on the events in an immediate fashion.] The Holy Synod of the Moscow Patriarchate met on Friday, August 30. The following are the minutes of the meeting. http://www.patriarchia.ru/db/text/5492005.html One of the most interesting items is that Archbishop Amvrosij (Ermakov) has been appointed rector of the Sretensky Theological Seminary. Archbishop Amvrosij was rector of the St. Petersburg Theological Academy from 2008 to July 2018, at which time he was appointed rector of the Moscow Theological Schools. On July 9, 2019, the Holy Synod appointed him acting rector of the Sretensky Theological Seminary, while retaining his position as rector of the Moscow Theological Academy. http://www.patriarchia.ru/db/text/118363.html (summary of Amvrosij’s prior positions and responsibilities) Now, the Holy Synod has relieved Archbishop Amvrosij of his responsibilities as rector of the Moscow Theological Academy and made him rector (now longer “acting”) of the Sretensky Theological Seminary. (Journal Entry 104) The Holy Synod has now also made Archbishop Amvrosij the “Namestnik” (Наместник – the governor of an stauropegial monastery) of the Sretensky Stauropegial (one under the direct supervision of the Patriarch) Monastery. (Journal Entry 105) Thus, Archbishop Amvrosij now heads both the Sretensky Monastery and its Seminary – the same positions that Metropolitan Tikhon (Shevkunov) held prior to May 19, 2018. http://www.patriarchia.ru/db/text/60784.html (summary of Tikhon’s prior positions and responsibilities). Metropolitan Tikhon (Shevkunov) is, of course, the very popular bishop whom some believe might be the next Patriarch. He is also alleged to be the confessor of President Putin. Before he was transferred to Pskov by the Holy Synod, Sretensky was the base of operations of Tikhon and source of his influence. Now Sretensky will be headed by Archbishop Amvrosij. In my opinion, Archbishop Amvosij is a “star” in the education system of the Moscow Patriarchate. He was highly regarded as rector of the St. Petersburg Theological Academy and was very popular with his students. He is a strong and dynamic leader. It is very likely that his influence will be strongly felt at Sretensky. You may also recall that the Holy Synod on July 9 established a commission, headed by Archbishop Amvrosij, “to study the possibility of optimizing the educational process in these religious schools [the Moscow Academy and the Sretensky Seminary]and increasing the level of coordination of their scientific and pedagogical activities.” https://mospat.ru/ru/2019/07/09/news176092/ (Journal Entry 75) This resulted in protests in the media that Patriarch Kirill was engaging in a political move to eliminate the Sretensky Seminary. On July 23, Patriarch Kirill issued a document that simply specifies the specializations that each school will have. http://www.patriarchia.ru/db/text/5476288.html This seemed to allay the fears about the elimination of the Sretnesky Seminary. The appointment of Archbishop Amvrosij as rector of the Sretensky Seminary is further evidence that the Seminary will not disappear. In addition, Archbishop Amvrosij has a personal interest in preserving Sretensky as he was a monk there beginning in 2000 and was director of its famous choir. However, with a strong leader such as Archbishop Amvrosij, changes may occur, and Sretensky may be less identified with Metropolitan Tikhon in the future. In other news, Metropolitan Sergiy of Singapore (Moscow Patriarchate), head of the newly established Exarchate of Southeast Asia, has written a sharp “open letter” to Metropolitan Ambrosios of Korea (Ecumenical Patriarchate) concerning an interview given by the latter criticizing the Moscow Patriarchate. See https://theorthodoxworld.com/exclusive-open-letter-of-metropolitan-sergiy-of-singapore-to-metropolitan-ambrosios-of-korea/ (the open letter in English); https://theorthodoxworld.com/exclusive-how-the-moscow-patriarchate-tramples-on-church-canons-and-undermines-orthodox-unity-in-korea/ (the original interview in English). The Catholic delegation from Rome, headed by Father Hyacinthe Destivelle O.P., met with both Patriarch Kirill and Metropolitan Hilarion. The delegation is part of the annual exchange between the Moscow Patriarchate and the Vatican. https://mospat.ru/en/2019/08/30/news176954/ (meeting with Patriarch); https://mospat.ru/en/2019/08/29/news176947/ (meeting with Metropolitan Hilarion). The very important Serbian hierarch, Bishop Irinej of Backa, is visiting Russia with a group of pilgrims. On August 28, he, Metropolitan Hilarion, and Metropolitan Tikhon celebrated the Liturgy together at Pskov. https://mospat.ru/en/2019/08/29/news176934/ At that time, Metropolitan Hilarion delivered another strong attack against the Ecumenical Patriarchate. On August 29, the first meeting of the newly elected Ukrainian parliament was held. Metropolitan Onufry, Metropolitan Epifany, and other church leaders were present in the first row of the balcony. https://news.church.ua/2019/08/29/predstoyatel-vzyav-uchast-v-urochistomu-zasidanni-verxovnoji-radi/ The following shows the number of delegates that each faction has in the new parliament. https://rada.gov.ua/en/news/News/179734.html (English). Zelensky’s faction, the People’s Servant Party, has approximately 60 percent of the delegates. The Opposition Platform–For Life faction, sympathetic to Moscow, has approximately 10 percent of the delegates. Rumors continue that Pope Francis may accept the invitation of operatic soprano Svetlana Kasyan (her husband is Leonid Leonid Sevastianov, the head of a charitable fund established by Metropolitan Hilarion) to visit her family’s apartment in Moscow. The latest rumor relates to repairs being suddenly made by the city to the facade of the building in which the apartment is located. https://credo.press/226306/ With respect to these rumors, I remain a skeptic. Share. Twitter Facebook Google+ Pinterest LinkedIn Tumblr Email Previous ArticleEncyclical of Ecumenical Patriarch Bartholomew for the Feast of Indiction and the First Day of the Ecclesiastical Year and the Day of Environmental Protection 1 Comment Ted D on August 31, 2019 7:37 pm Mush, mud and murky waters, the result of disobedience to the Mother Church, Lord have Mercy – Russian Ecclesiastical imperialism at its best. Reply Leave A Reply Cancel Reply This site uses Akismet to reduce spam. Learn how your comment data is processed. Share this page DISCLAIMER All articles represent the views of the authors and not necessarily the official views of Orthodox Christian Laity (OCL). They are posted to encourage thoughtful discussion on topics and concerns relevant to Orthodox Christians living in a pluralistic society. OCL encourages your comments. Stay Informed! Subscribe to our Newsletter WE NEED YOUR HELP! "If this web site is meaningful to you, support OCL with your Donation via Pay Pal!" DONATE NOW Upcoming Events International Conference on the Theological Heritage of Fr. Georges Florovsky September 1 - September 3 27th International Ecumenical Conference on Orthodox Spirituality September 4 @ 8:00 am - September 6 @ 5:00 pm EDT Orthodoxy in America Lecture Series at Fordham University September 24 @ 6:00 pm - 9:00 pm EDT Orthodox Christian Laity 32nd Annual Meeting November 2 @ 9:00 am - 12:00 pm EDT View All Events Recent Comments Interesting Developments at the Meetings of the Synods of Constantinople and Moscow (0) Ted D - Mush, mud and murky waters, the result of disobedience to the Mother Church, Lord have Mercy - Russian Ecclesiastical imperialism at its best. – Aug 31, 7:37 PM OCL Leadership Enjoys Inspirational and Productive Meeting with His Eminence, Archbishop Elpidophoros (27) Nikolai - Ted, you are just SO wrong! To say, "There is NO American Church," is plain DELUSIONAL! Foreign bishops taking the money of American Orthodox is... – Aug 31, 7:15 AM Mother Elizabeth (Klipa - Bacha) - You cannot have a "Mother Church in Constantinople" when there is no longer a "Constantinople"! Eto fact! Constantinople is non-existent as a political entity today... – Aug 29, 10:00 PM Mother Elizabeth (Klipa - Bacha) - Yes! We who were present and ministering in the Orthodoxy of America in this decisive era of the 1970's with expectations of "Pan-Orthodox Unity" have... – Aug 29, 7:19 PM Pew Research Center: Orthodox Christianity in the 21st Century (3) Ted D - Christianity is not a product or a popularity contest - Numbers are good to look at, but God does not work with numbers. If He... – Aug 31, 12:41 AM CONTRA “FATHER-ISM” - ON SPIRITUAL AND THEOLOGICAL ABUSE (9) Ted D - In a previous comment I said that it is "very peculiar" to see people comment; now I must say, it is very sad to see... – Aug 29, 5:34 PM Constantinos - Well, Ted D, you said the soul goes through great torment after death. Perhaps, you can explain to me what Christ meant when He told... – Aug 29, 12:54 AM Jk - Ted, you quote Fr Metallinos as if he is an absolute authority. I have no idea what "Hellenism is the Capitol of Christianity" means. The... – Aug 28, 10:34 PM Ted D - The "aerial toll houses" - This is a topic tossed around as a major teaching of shorts. It is not even close to that and... – Aug 27, 6:16 PM OCL Archives Online Project for Orthodox Renewal Support OCL through Amazon St. Symeon the New Theologian and St. Photini are the Patron Saints of OCL Orthodox Christian Laity PO Box 6954 West Palm Beach, FL · 33405 561-585-0245 Sponsored by Ann Souvall in memory of husband George DISCLAIMER: All articles represent the views of the authors and not necessarily the official views of Orthodox Christian Laity (OCL). They are posted to encourage thoughtful discussion on topics and concerns relevant to Orthodox Christians living in a pluralistic society. OCL encourages your comments. ©2018 Orthodox Christian Laity (OCL) · Login
+        find Evanston
+        title GREEK CHURCH DOESN’T WANT TO BE RESPONSIBLE FOR A SCHISM IN ORTHODOXY—UKRAINIAN CHURCH SPEAKER
+        text GREEK CHURCH DOESN’T WANT TO BE RESPONSIBLE FOR A SCHISM IN ORTHODOXY—UKRAINIAN CHURCH SPEAKER THE TIME FOR ORTHODOX UNITY IS NOW! Navigate Home OCL About OCL Leadership OCL News OCL Publications Focused Study and Research Topics OCL Archives at DePaul University Orthodox News & Links Orthodox News Stories Headlines & News Archives Governance & Unity Governance Top Stories Governance & Unity Essays Grassroots Unity in Action OCL Forums Orthodox Christian Laity News Web Links Audio & Video Audio Index Video Index DONATE Contact You are at:Home»Governance & Unity News»Governance & Unity Essays»GREEK CHURCH DOESN’T WANT TO BE RESPONSIBLE FOR A SCHISM IN ORTHODOXY—UKRAINIAN CHURCH SPEAKER GREEK CHURCH DOESN’T WANT TO BE RESPONSIBLE FOR A SCHISM IN ORTHODOXY—UKRAINIAN CHURCH SPEAKER 0 By Webmaster on August 30, 2019 Governance & Unity Essays, Governance & Unity News Source: Orthodox Christianity Holy Synod of the Orthodox Church of Greece KIEV – The Greek Orthodox Church does not want to enter into a direct confrontation with the Patriarchate of Constantinople, but clearly understands that for any Local Church to recognize the schismatic “Orthodox Church of Ukraine” (OCU) would be to divide the Orthodox world into two parts, Archpriest Nikolai Danilevich, Deputy Head of the canonical Ukrainian Church’s Department for External Church Relations, commented in an interview with First Cossack, reports the Union of Orthodox Journalists. “The text of the Synod’s decision became the basis for some news agencies to say that the Greek Church recognized the means of autocephaly OCU as canonical, which is twisting the text itself,” said the Ukrainian Church speaker. “The fact is that the Greek Orthodox Church recognized the right of Constantinople to give autocephaly. Similar phrases were also in the letter of Archbishop Anastasius, primate of the Albanian Church, and in the letter of the Synod of the Orthodox Church of Cyprus. But they do not concern the recognition of the Church itself,” Fr. Nikolai explained. The Greek Church understands what is schism and what isn’t, Fr. Nikolai said. However, they are under pressure and want to avoid a direct confrontation with Constantinople. “But they cannot change the truth and say that what is obviously wrong is right; they cannot call black white.” Vladimir Legoida, the head of the Moscow Patriarchate’s Synodal Department for Relations with Society and the Media, also spoke of the pressure on the Greek Church: “How the Greek Church discusses the question of the schismatic OCU demonstrates the unprecedented severity of the problem and also of the pressure that is being exerted.” The Greek Church offered Constantinople “a spoonful of honey” with its statement about the Patriarchate’s right to grant autocephaly, though at the same time, the statement is balanced and generally well received, Fr. Nikolai noted. “We understand the whole situation the Greek Church has found itself in, and we see that it does not want to be responsible for the splitting of the Orthodox world. Because any other Church that joins this decision of Constantinople, will be the first, in fact, in the division of the Orthodox world into two parts: Those who will recognize the OCU, and those who will not,” the speaker said. He also noted that there are no analogous situations in Church history in which a minority schismatic group was granted autocephaly and raised above the group that all Churches recognized as canonical. “The Russian Orthodox Church has always testified that the most important factor in this discussion should be concern for the Orthodox Ukrainians, the children of the canonical Church, who as a result of the Phanar’s intervention became a majority persecuted by the radicals,” Legoida also wrote. “Any support for the OCU by the Local Churches can only lead to further division in Ukrainian society, the deepening of the schism, and the escalation of hatred,” the Russian Church representative said. Share. Twitter Facebook Google+ Pinterest LinkedIn Tumblr Email Previous ArticleOCL 5 Year Results Review Ending 2019 Next Article Musings of the Executive Director: Reflecting on the Challenges of the New Ecclesiastical Year 2019 Leave A Reply Cancel Reply This site uses Akismet to reduce spam. Learn how your comment data is processed. Share this page DISCLAIMER All articles represent the views of the authors and not necessarily the official views of Orthodox Christian Laity (OCL). They are posted to encourage thoughtful discussion on topics and concerns relevant to Orthodox Christians living in a pluralistic society. OCL encourages your comments. Stay Informed! Subscribe to our Newsletter WE NEED YOUR HELP! "If this web site is meaningful to you, support OCL with your Donation via Pay Pal!" DONATE NOW Upcoming Events International Conference on the Theological Heritage of Fr. Georges Florovsky September 1 - September 3 27th International Ecumenical Conference on Orthodox Spirituality September 4 @ 8:00 am - September 6 @ 5:00 pm EDT Orthodoxy in America Lecture Series at Fordham University September 24 @ 6:00 pm - 9:00 pm EDT Orthodox Christian Laity 32nd Annual Meeting November 2 @ 9:00 am - 12:00 pm EDT View All Events Recent Comments Interesting Developments at the Meetings of the Synods of Constantinople and Moscow (0) Ted D - Mush, mud and murky waters, the result of disobedience to the Mother Church, Lord have Mercy - Russian Ecclesiastical imperialism at its best. – Aug 31, 7:37 PM OCL Leadership Enjoys Inspirational and Productive Meeting with His Eminence, Archbishop Elpidophoros (27) Nikolai - Ted, you are just SO wrong! To say, "There is NO American Church," is plain DELUSIONAL! Foreign bishops taking the money of American Orthodox is... – Aug 31, 7:15 AM Mother Elizabeth (Klipa - Bacha) - You cannot have a "Mother Church in Constantinople" when there is no longer a "Constantinople"! Eto fact! Constantinople is non-existent as a political entity today... – Aug 29, 10:00 PM Mother Elizabeth (Klipa - Bacha) - Yes! We who were present and ministering in the Orthodoxy of America in this decisive era of the 1970's with expectations of "Pan-Orthodox Unity" have... – Aug 29, 7:19 PM Pew Research Center: Orthodox Christianity in the 21st Century (3) Ted D - Christianity is not a product or a popularity contest - Numbers are good to look at, but God does not work with numbers. If He... – Aug 31, 12:41 AM CONTRA “FATHER-ISM” - ON SPIRITUAL AND THEOLOGICAL ABUSE (9) Ted D - In a previous comment I said that it is "very peculiar" to see people comment; now I must say, it is very sad to see... – Aug 29, 5:34 PM Constantinos - Well, Ted D, you said the soul goes through great torment after death. Perhaps, you can explain to me what Christ meant when He told... – Aug 29, 12:54 AM Jk - Ted, you quote Fr Metallinos as if he is an absolute authority. I have no idea what "Hellenism is the Capitol of Christianity" means. The... – Aug 28, 10:34 PM Ted D - The "aerial toll houses" - This is a topic tossed around as a major teaching of shorts. It is not even close to that and... – Aug 27, 6:16 PM OCL Archives Online Project for Orthodox Renewal Support OCL through Amazon St. Symeon the New Theologian and St. Photini are the Patron Saints of OCL Orthodox Christian Laity PO Box 6954 West Palm Beach, FL · 33405 561-585-0245 Sponsored by Ann Souvall in memory of husband George DISCLAIMER: All articles represent the views of the authors and not necessarily the official views of Orthodox Christian Laity (OCL). They are posted to encourage thoughtful discussion on topics and concerns relevant to Orthodox Christians living in a pluralistic society. OCL encourages your comments. ©2018 Orthodox Christian Laity (OCL) · Login
+        count 36600
+        count 36700
+        count 36800
+        count 36900
+        count 37000
+        count 37100
+        count 37200
+        count 37300
+        count 37400
+        count 37500
+        count 37600
+        count 37700
+        count 37800
+        count 37900
+        count 38000
+        count 38100
+        count 38200
+        count 38300
+        count 38400
+        count 38500
+        count 38600
+        count 38700
+        count 38800
+        count 38900
+        count 39000
+        count 39100
+        count 39200
+        text Terrence Cullen Obituary - Albany, NY | Albany Times Union
+        Powered By OBITUARIES FUNERAL HOMES SEND FLOWERS NEWS & ADVICE MEMORIALS Search SEARCH Obituaries and Guest Books BROWSE Most Recent By Location Notable Deaths SUBMIT Submit an Obituary SEARCH Search By Location SYMPATHY GIFTS Send Flowers BROWSE Funeral Flowers Charitable Donations BROWSE News & Advice Celebrity Deaths Culture and Trends Explore History Photo Galleries Advice and Support BROWSE Memorial Sites Terrence Patrick "Terry" Cullen Guest Book Be the first to share your memories or express your condolences in the Guest Book for Terrence Patrick "Terry" Cullen. View Sign Obituary Send Flowers Cullen, Terrence Patrick "Terry" ALBANY Terrence Patrick Cullen "Terry" died peacefully in his sleep on August 26, 2019, after an extended illness. He was predeceased by his parents Edward and Elizabeth (Betty Powers); and his brother Michael. He is survived by his brothers, Joseph (Sherre) of Evanston, Ill., William (Roxanne) of Penfield, N.Y., and David (Vicky) of Horseheads, N.Y.; and his sister-in-law Jean Cullen of Elmira, N.Y. He was the beloved uncle of Adam, Brian (Kate), Ethan, Matthew, Jaimi, and Lindsey. He adored his great-nephew Graham. Terry is also survived by his former partner David Shetler; lifelong friends, Joseph Egnaczak and Michael McCann, and very close friends, Peter Mesh, Peter Slattery, Ron Gleason and Bill Capone; his goddaughter Marielle Celeste Brown and her mother Lisa Brown; and many dear friends. Terry was born in Elmira, N.Y. on April 6, 1955. He graduated from Thomas A. Edison High School in Elmira Heights, N.Y. in 1973. He was on the swim team and remained an avid swimmer his whole life. Terry competed in the Gay Games in Vancouver in 1990. Terry attended Corning Community College and the State University of New York at Alfred where he obtained a degree in nursing. He later went on to earn an M.P.A. from Syracuse University. Terry worked for the State of New York for nearly 40 years, first as a nurse and then in the Budget Department, where he retired as the deputy director of medicaid finance. Terry loved to travel and enjoyed his many adventures with family and friends, especially his trips abroad, to any beach anywhere, and to Wanakena in the beautiful Adirondacks. Terry played on the volleyball league in Syracuse for many years and continued to play after moving to Albany. He was also active in a tennis league in Albany, and he continued to play tennis, swim, and even learned to play pickle ball the last year of his life. Terry volunteered as a teen mentor for many years. After retiring, Terry volunteered at Albany Medical Center and Parsons Child & Family Center because he found great joy when working with children. Terry will be remembered for his kind heart, his thoughtful nature, and his gentle spirit. Terry was beloved by many. This was made clear by the outpouring of support shown by so many friends who helped him navigate his challenging final years. What a blessing and what a gift to him! A memorial service will be planned for a future date. In lieu of flowers, please consider making a gift to support Alzheimer's research, with the hope that fewer people will have to live with this dreadful disease. Please send your donation in memory of Terry to the online at or mail your gift to the at 225 N. Michigan Ave., Fl. 17, Chicago, IL, 60601. Published in Albany Times Union on Sept. 1, 2019 Print | View Guest Book | Helpful Links Additional Resources Send Funeral Flowers How To Submit An Obituary Find Advice & Support Funeral Etiquette Grief Support Groups Return to Today's Obituary Notices for Albany Times Union Share Obituary Email Obituary Give others a chance to express condolences. Share on Facebook Share via Email Not right now. Follow this Obituary Remember on Facebook Follow via email *Please enter a valid email address. Bookmark this memorial on Facebook with the My Memorials™ application. My Memorials™ helps you honor departed family members, friends, and even favorite celebrities – all on your Facebook page. Thank you. You have now memorialized on Facebook. The My Memorials Facebook app allows you to: Connect with memorials that are important to you. Get updates on your memorials in your Facebook News Feed. Share your memories with your Facebook friends. VIEW YOUR MY MEMORIALS PAGE OR Return to Obituary No, ThanksGO CLOSE Close Donations Please consider a donation, as requested by the family. PRIVACY POLICYTERMSCONTACT USFAQ © 2019 Legacy.com. All rights reserved.
+        find Evanston
+        title Terrence Cullen Obituary - Albany, NY | Albany Times Union
+        text Terrence Cullen Obituary - Albany, NY | Albany Times Union
+        Powered By OBITUARIES FUNERAL HOMES SEND FLOWERS NEWS & ADVICE MEMORIALS Search SEARCH Obituaries and Guest Books BROWSE Most Recent By Location Notable Deaths SUBMIT Submit an Obituary SEARCH Search By Location SYMPATHY GIFTS Send Flowers BROWSE Funeral Flowers Charitable Donations BROWSE News & Advice Celebrity Deaths Culture and Trends Explore History Photo Galleries Advice and Support BROWSE Memorial Sites Terrence Patrick "Terry" Cullen Guest Book Be the first to share your memories or express your condolences in the Guest Book for Terrence Patrick "Terry" Cullen. View Sign Obituary Send Flowers Cullen, Terrence Patrick "Terry" ALBANY Terrence Patrick Cullen "Terry" died peacefully in his sleep on August 26, 2019, after an extended illness. He was predeceased by his parents Edward and Elizabeth (Betty Powers); and his brother Michael. He is survived by his brothers, Joseph (Sherre) of Evanston, Ill., William (Roxanne) of Penfield, N.Y., and David (Vicky) of Horseheads, N.Y.; and his sister-in-law Jean Cullen of Elmira, N.Y. He was the beloved uncle of Adam, Brian (Kate), Ethan, Matthew, Jaimi, and Lindsey. He adored his great-nephew Graham. Terry is also survived by his former partner David Shetler; lifelong friends, Joseph Egnaczak and Michael McCann, and very close friends, Peter Mesh, Peter Slattery, Ron Gleason and Bill Capone; his goddaughter Marielle Celeste Brown and her mother Lisa Brown; and many dear friends. Terry was born in Elmira, N.Y. on April 6, 1955. He graduated from Thomas A. Edison High School in Elmira Heights, N.Y. in 1973. He was on the swim team and remained an avid swimmer his whole life. Terry competed in the Gay Games in Vancouver in 1990. Terry attended Corning Community College and the State University of New York at Alfred where he obtained a degree in nursing. He later went on to earn an M.P.A. from Syracuse University. Terry worked for the State of New York for nearly 40 years, first as a nurse and then in the Budget Department, where he retired as the deputy director of medicaid finance. Terry loved to travel and enjoyed his many adventures with family and friends, especially his trips abroad, to any beach anywhere, and to Wanakena in the beautiful Adirondacks. Terry played on the volleyball league in Syracuse for many years and continued to play after moving to Albany. He was also active in a tennis league in Albany, and he continued to play tennis, swim, and even learned to play pickle ball the last year of his life. Terry volunteered as a teen mentor for many years. After retiring, Terry volunteered at Albany Medical Center and Parsons Child & Family Center because he found great joy when working with children. Terry will be remembered for his kind heart, his thoughtful nature, and his gentle spirit. Terry was beloved by many. This was made clear by the outpouring of support shown by so many friends who helped him navigate his challenging final years. What a blessing and what a gift to him! A memorial service will be planned for a future date. In lieu of flowers, please consider making a gift to support Alzheimer's research, with the hope that fewer people will have to live with this dreadful disease. Please send your donation in memory of Terry to the online at or mail your gift to the at 225 N. Michigan Ave., Fl. 17, Chicago, IL, 60601. Published in Albany Times Union on Sept. 1, 2019 Print | View Guest Book | Helpful Links Additional Resources Send Funeral Flowers How To Submit An Obituary Find Advice & Support Funeral Etiquette Grief Support Groups Return to Today's Obituary Notices for Albany Times Union Share Obituary Email Obituary Give others a chance to express condolences. Share on Facebook Share via Email Not right now. Follow this Obituary Remember on Facebook Follow via email *Please enter a valid email address. Bookmark this memorial on Facebook with the My Memorials™ application. My Memorials™ helps you honor departed family members, friends, and even favorite celebrities – all on your Facebook page. Thank you. You have now memorialized on Facebook. The My Memorials Facebook app allows you to: Connect with memorials that are important to you. Get updates on your memorials in your Facebook News Feed. Share your memories with your Facebook friends. VIEW YOUR MY MEMORIALS PAGE OR Return to Obituary No, ThanksGO CLOSE Close Donations Please consider a donation, as requested by the family. PRIVACY POLICYTERMSCONTACT USFAQ © 2019 Legacy.com. All rights reserved.
+        text Terrence Cullen Obituary - Albany, NY | Albany Times Union
+        Powered By OBITUARIES FUNERAL HOMES SEND FLOWERS NEWS & ADVICE MEMORIALS Search SEARCH Obituaries and Guest Books BROWSE Most Recent By Location Notable Deaths SUBMIT Submit an Obituary SEARCH Search By Location SYMPATHY GIFTS Send Flowers BROWSE Funeral Flowers Charitable Donations BROWSE News & Advice Celebrity Deaths Culture and Trends Explore History Photo Galleries Advice and Support BROWSE Memorial Sites Terrence Patrick "Terry" Cullen Guest Book Be the first to share your memories or express your condolences in the Guest Book for Terrence Patrick "Terry" Cullen. View Sign Obituary Send Flowers Cullen, Terrence Patrick "Terry" ALBANY Terrence Patrick Cullen "Terry" died peacefully in his sleep on August 26, 2019, after an extended illness. He was predeceased by his parents Edward and Elizabeth (Betty Powers); and his brother Michael. He is survived by his brothers, Joseph (Sherre) of Evanston, Ill., William (Roxanne) of Penfield, N.Y., and David (Vicky) of Horseheads, N.Y.; and his sister-in-law Jean Cullen of Elmira, N.Y. He was the beloved uncle of Adam, Brian (Kate), Ethan, Matthew, Jaimi, and Lindsey. He adored his great-nephew Graham. Terry is also survived by his former partner David Shetler; lifelong friends, Joseph Egnaczak and Michael McCann, and very close friends, Peter Mesh, Peter Slattery, Ron Gleason and Bill Capone; his goddaughter Marielle Celeste Brown and her mother Lisa Brown; and many dear friends. Terry was born in Elmira, N.Y. on April 6, 1955. He graduated from Thomas A. Edison High School in Elmira Heights, N.Y. in 1973. He was on the swim team and remained an avid swimmer his whole life. Terry competed in the Gay Games in Vancouver in 1990. Terry attended Corning Community College and the State University of New York at Alfred where he obtained a degree in nursing. He later went on to earn an M.P.A. from Syracuse University. Terry worked for the State of New York for nearly 40 years, first as a nurse and then in the Budget Department, where he retired as the deputy director of medicaid finance. Terry loved to travel and enjoyed his many adventures with family and friends, especially his trips abroad, to any beach anywhere, and to Wanakena in the beautiful Adirondacks. Terry played on the volleyball league in Syracuse for many years and continued to play after moving to Albany. He was also active in a tennis league in Albany, and he continued to play tennis, swim, and even learned to play pickle ball the last year of his life. Terry volunteered as a teen mentor for many years. After retiring, Terry volunteered at Albany Medical Center and Parsons Child & Family Center because he found great joy when working with children. Terry will be remembered for his kind heart, his thoughtful nature, and his gentle spirit. Terry was beloved by many. This was made clear by the outpouring of support shown by so many friends who helped him navigate his challenging final years. What a blessing and what a gift to him! A memorial service will be planned for a future date. In lieu of flowers, please consider making a gift to support Alzheimer's research, with the hope that fewer people will have to live with this dreadful disease. Please send your donation in memory of Terry to the online at or mail your gift to the at 225 N. Michigan Ave., Fl. 17, Chicago, IL, 60601. Published in Albany Times Union on Sept. 1, 2019 Print | View Guest Book | Helpful Links Additional Resources Send Funeral Flowers How To Submit An Obituary Find Advice & Support Funeral Etiquette Grief Support Groups Return to Today's Obituary Notices for Albany Times Union Share Obituary Email Obituary Give others a chance to express condolences. Share on Facebook Share via Email Not right now. Follow this Obituary Remember on Facebook Follow via email *Please enter a valid email address. Bookmark this memorial on Facebook with the My Memorials™ application. My Memorials™ helps you honor departed family members, friends, and even favorite celebrities – all on your Facebook page. Thank you. You have now memorialized on Facebook. The My Memorials Facebook app allows you to: Connect with memorials that are important to you. Get updates on your memorials in your Facebook News Feed. Share your memories with your Facebook friends. VIEW YOUR MY MEMORIALS PAGE OR Return to Obituary No, ThanksGO CLOSE Close Donations Please consider a donation, as requested by the family. PRIVACY POLICYTERMSCONTACT USFAQ © 2019 Legacy.com. All rights reserved.
+        status code 201
+        count 39300
+
+        Process finished with exit code 0
