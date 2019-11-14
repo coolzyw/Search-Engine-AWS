@@ -2,23 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c785d415-ec62-4016-85c1-5bf9356c6906" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../lambda/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../lambda/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../lambda/src/main/java/edu/northwestern/ssa/example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../lambdatesting/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/northwestern/ssa/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/northwestern/ssa/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lambdatesting/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lambdatesting/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lambdatesting/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lambdatesting/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lambdatesting/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lambdatesting/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lambdatesting/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lambdatesting/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lambdatesting/src/main/java/lambdatest/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lambdatesting/src/main/java/lambdatest/Hello.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lambdatesting/target/classes/lambdatest/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lambdatesting/target/classes/lambdatest/Hello.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lambdatesting/target/classes/lambdatest/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lambdatesting/target/classes/lambdatest/Hello.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lambdatesting/target/lambdatesting-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../lambdatesting/target/lambdatesting-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lambdatesting/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../../lambdatesting/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lambdatesting/target/original-lambdatesting-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../lambdatesting/target/original-lambdatesting-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -290,7 +278,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27825466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

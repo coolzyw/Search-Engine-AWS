@@ -2,6 +2,9 @@ package lambdatest;
 
 import com.amazonaws.services.lambda.runtime.Context;
 import com.amazonaws.services.lambda.runtime.RequestHandler;
+import org.archive.io.ArchiveReader;
+import org.archive.io.warc.WARCReaderFactory;
+import org.jsoup.Connection;
 import software.amazon.awssdk.core.client.config.ClientOverrideConfiguration;
 import software.amazon.awssdk.core.sync.ResponseTransformer;
 import software.amazon.awssdk.regions.Region;
@@ -12,6 +15,7 @@ import software.amazon.awssdk.services.s3.model.ListObjectsV2Response;
 import software.amazon.awssdk.services.s3.model.S3Object;
 import software.amazon.awssdk.services.s3.paginators.ListObjectsV2Iterable;
 
+import java.io.InputStream;
 import java.nio.file.Paths;
 import java.time.Duration;
 import java.time.Instant;
@@ -36,6 +40,7 @@ public class Hello implements RequestHandler<Map<String,Object>, String>{
 
         Instant newest = Instant.MIN;
         String fileName = "";
+        System.out.println("finish the request");
 
         for (ListObjectsV2Response page : keyResponse) {
             List<S3Object> files_on_page = page.contents();
@@ -56,8 +61,15 @@ public class Hello implements RequestHandler<Map<String,Object>, String>{
                 .key(fileName)
                 .build();
 
-        s3.getObject(request, ResponseTransformer.toFile(Paths.get("responses.warc.gz")));
+        InputStream is = s3.getObject(request, ResponseTransformer.toInputStream());
+        try {
+            ArchiveReader ar = WARCReaderFactory.get(fileName, is, true);
+        }
+        catch (Exception e) {
+            System.out.println("warc file read error");
+        }
 
+        System.out.print("parsing the file finish");
         s3.close();
 
 
