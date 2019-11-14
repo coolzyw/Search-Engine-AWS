@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c785d415-ec62-4016-85c1-5bf9356c6906" name="Default Changelist" comment="" />
+    <list default="true" id="c785d415-ec62-4016-85c1-5bf9356c6906" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../lambda/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lambda/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lambda/src/main/java/edu/northwestern/ssa/example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lambdatesting/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/northwestern/ssa/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/northwestern/ssa/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lambdatesting/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lambdatesting/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lambdatesting/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lambdatesting/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lambdatesting/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lambdatesting/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lambdatesting/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lambdatesting/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lambdatesting/src/main/java/lambdatest/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lambdatesting/src/main/java/lambdatest/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lambdatesting/target/classes/lambdatest/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lambdatesting/target/classes/lambdatest/Hello.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lambdatesting/target/classes/lambdatest/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lambdatesting/target/classes/lambdatest/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lambdatesting/target/lambdatesting-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../lambdatesting/target/lambdatesting-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lambdatesting/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../../lambdatesting/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lambdatesting/target/original-lambdatesting-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../lambdatesting/target/original-lambdatesting-1.0-SNAPSHOT.jar" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,11 +57,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/northwestern/ssa/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="50" selection-start-line="50" selection-end-line="50" />
+            <state relative-caret-position="314">
+              <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -103,7 +131,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -123,6 +151,32 @@
             <path>
               <item name="news-import" type="b2602c69:ProjectViewProjectNode" />
               <item name="ssa-skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="news-import" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssa-skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="news-import" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssa-skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="news-import" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssa-skeleton" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ssa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="news-import" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssa-skeleton" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -134,7 +188,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571423669121" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573753811448" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
@@ -238,7 +292,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27110156" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27825466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -380,6 +434,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/northwestern/ssa/test">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="14445">
@@ -396,8 +457,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/northwestern/ssa/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        <state relative-caret-position="314">
+          <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
