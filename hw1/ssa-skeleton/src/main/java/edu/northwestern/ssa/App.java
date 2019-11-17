@@ -32,7 +32,17 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
-public class App {
+import com.amazonaws.services.lambda.runtime.Context;
+import com.amazonaws.services.lambda.runtime.LambdaLogger;
+
+public class App implements RequestHandler<Map<String,Object>, String>{
+
+    public String handleRequest(Map<String,Object> input, Context context) {
+        LambdaLogger logger = context.getLogger();
+        logger.log("received : " + input);
+        return "done";
+    }
+
     public static void main(String[] args) throws IOException {
         // PART 1
         String hostname = System.getenv("ELASTIC_SEARCH_HOST");
