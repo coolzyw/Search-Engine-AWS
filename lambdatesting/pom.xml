@@ -68,6 +68,12 @@
             <artifactId>apache-client</artifactId>
             <!-- version number is not needed due to the BOM below -->
         </dependency>
+
+        <dependency>
+            <groupId>software.amazon.awssdk</groupId>
+            <artifactId>sqs</artifactId>
+            <!-- version number is not needed due to the BOM below -->
+        </dependency>
     </dependencies>
 
     <dependencyManagement>
