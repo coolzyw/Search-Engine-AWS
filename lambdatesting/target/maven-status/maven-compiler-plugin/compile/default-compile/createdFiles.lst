@@ -1,1 +1,4 @@
-lambdatest/Hello.class
+lambdatest/EnqueueToSQS.class
+lambdatest/PostToElasticsearch.class
+lambdatest/ElasticsearchRequest.class
+lambdatest/AwsSignedRestRequest.class
