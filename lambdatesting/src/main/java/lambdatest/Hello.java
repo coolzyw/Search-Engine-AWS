@@ -14,22 +14,18 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import software.amazon.awssdk.auth.credentials.AwsCredentialsProvider;
 import software.amazon.awssdk.core.client.config.ClientOverrideConfiguration;
+import software.amazon.awssdk.core.sync.RequestBody;
 import software.amazon.awssdk.core.sync.ResponseTransformer;
 import software.amazon.awssdk.http.HttpExecuteResponse;
 import software.amazon.awssdk.http.SdkHttpClient;
 import software.amazon.awssdk.regions.Region;
 import software.amazon.awssdk.services.s3.S3Client;
-import software.amazon.awssdk.services.s3.model.GetObjectRequest;
-import software.amazon.awssdk.services.s3.model.ListObjectsV2Request;
-import software.amazon.awssdk.services.s3.model.ListObjectsV2Response;
-import software.amazon.awssdk.services.s3.model.S3Object;
+import software.amazon.awssdk.services.s3.model.*;
 import software.amazon.awssdk.services.s3.paginators.ListObjectsV2Iterable;
 import software.amazon.awssdk.services.sqs.SqsClient;
 import software.amazon.awssdk.services.sqs.model.*;
 
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.UncheckedIOException;
+import java.io.*;
 import java.net.URI;
 import java.nio.file.Paths;
 import java.time.Duration;
@@ -77,13 +73,43 @@ public class Hello implements RequestHandler<Map<String,Object>, String>{
             }
         }
 
+        // get the latest name in S3 bucket
+        String latestBucket = "yzh1927-bucket";
+        String key = "bucket.txt";
+        GetObjectRequest latestRequest = GetObjectRequest.builder().
+                bucket(latestBucket).
+                key(key).
+                build();
+        InputStream latestInputStream = s3.getObject(latestRequest, ResponseTransformer.toInputStream());
+        String latestFileName = null;
+        BufferedReader reader = new BufferedReader(new InputStreamReader(latestInputStream));
+        try {
+            latestFileName = reader.readLine();
+        }
+        catch (Exception e) {
+            System.out.print("bucket read error");
+        }
+
+        if (latestFileName != null && latestFileName.equals(fileName)) {
+            context.getLogger().log("filename is empty/same, no need to update bucket");
+            return fileName;
+        }
+        else {
+            // first delete the object in the S3 bucket
+            DeleteObjectRequest deleteRequest = DeleteObjectRequest.builder().bucket(latestBucket).key(key).build();
+            s3.deleteObject(deleteRequest);
+            // then upload a new object to the S3 bucket
+            PutObjectRequest putRequest = PutObjectRequest.builder().bucket(latestBucket).key(key).build();
+            s3.putObject(putRequest, RequestBody.fromString(fileName));
+            context.getLogger().log("updated S3 bucket");
+        }
+
         GetObjectRequest request = GetObjectRequest.builder()
                 .bucket("commoncrawl")
                 .key(fileName)
                 .build();
 
         InputStream is = s3.getObject(request, ResponseTransformer.toInputStream());
-
         ArchiveReader ar = null;
         try {
             ar = WARCReaderFactory.get(fileName, is, true);
@@ -101,7 +127,6 @@ public class Hello implements RequestHandler<Map<String,Object>, String>{
 
         ExecutorService executor = Executors.newFixedThreadPool(50);
         String sqsUrl = "https://sqs.us-east-1.amazonaws.com/757242523837/sqs-queue-yzh1927";
-
 
         Iterator<ArchiveRecord> it = ar.iterator();
         while (it.hasNext()) {
