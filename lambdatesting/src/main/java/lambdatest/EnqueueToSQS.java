@@ -4,6 +4,7 @@ import com.amazonaws.services.lambda.runtime.Context;
 import com.amazonaws.services.lambda.runtime.LambdaLogger;
 import com.amazonaws.services.lambda.runtime.RequestHandler;
 import org.apache.commons.io.IOUtils;
+import org.apache.http.util.TextUtils;
 import org.archive.io.ArchiveReader;
 import org.archive.io.ArchiveRecord;
 import org.archive.io.ArchiveRecordHeader;
@@ -12,6 +13,7 @@ import org.json.JSONObject;
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
 import software.amazon.awssdk.auth.credentials.AwsCredentialsProvider;
 import software.amazon.awssdk.core.client.config.ClientOverrideConfiguration;
 import software.amazon.awssdk.core.sync.RequestBody;
@@ -28,16 +30,17 @@ import software.amazon.awssdk.services.sqs.model.*;
 import java.io.*;
 import java.net.URI;
 import java.nio.file.Paths;
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
 import java.time.Duration;
 import java.time.Instant;
-import java.util.Iterator;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
 public class EnqueueToSQS implements RequestHandler<Map<String,Object>, String>{
+
     public String handleRequest(Map<String,Object> input, Context context) {
         LambdaLogger logger = context.getLogger();
 
@@ -156,6 +159,15 @@ public class EnqueueToSQS implements RequestHandler<Map<String,Object>, String>{
                     continue;
                 }
 
+                Element taglang = doc.select("html").first();
+                String language = taglang.attr("lang");
+                logger.log(language);
+
+                DateFormat dateformat = new SimpleDateFormat("yyyy-MM-dd");
+                Date dateD = new Date();
+                String date = dateformat.format(dateD);
+
+
                 String title = doc.title();
                 String text = doc.text();
 
@@ -165,9 +177,11 @@ public class EnqueueToSQS implements RequestHandler<Map<String,Object>, String>{
                         .put("url", url)
                         .put("title", title)
                         .put("text", text)
+                        .put("language", language)
+                        .put("date", date)
                         .toString();
 
-                logger.log(jsonString);
+                logger.log("jsonString: " + jsonString);
                 logger.log("Time to enqueue!");
 
                 Runnable enqueueEntry = () -> {

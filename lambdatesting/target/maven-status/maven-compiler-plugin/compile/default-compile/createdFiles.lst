@@ -2,3 +2,4 @@ lambdatest/EnqueueToSQS.class
 lambdatest/PostToElasticsearch.class
 lambdatest/ElasticsearchRequest.class
 lambdatest/AwsSignedRestRequest.class
+lambdatest/PostToElasticsearch$1.class
