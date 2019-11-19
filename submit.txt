@@ -1,0 +1,8 @@
+Parter name: Vikram Kohli, netid: vkp260
+A link to your frontend: http://yzh1927-frontend.s3-website-us-east-1.amazonaws.com/
+A link to your API server: http://yzh1927web-env-2.mcfmihpur4.us-east-1.elasticbeanstalk.com/
+a list of all the AWS resources you used
+names of lambdas: lambda-function-yzh1927
+name of SQS queue: sqs-queue-yzh1927
+name of S3 bucket(s): yzh1927-bucket, yzh1927-frontend
+Name of elastic search cluster: yzh1927-project
